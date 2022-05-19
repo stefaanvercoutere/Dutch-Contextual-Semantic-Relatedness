@@ -1,500 +1,500 @@
-winnaar ; vrije tijd ; ['game', 'jackpot', 'speler', 'loterij', 'prijs']
-winnaar ; verkiezingen ; ['staat', 'stem', 'president', 'kiesman', 'verkiezing']
-winnaar ; massamedia ; ['man', 'vraag', 'huis', 'quiz', 'deelnemer']
-winnaar ; sport ; ['seizoen', 'doelpunt', 'goal', 'zilver', 'goud']
-lied ; politiek ; ['volkslied', 'partij', 'foto', 'stad', 'volk']
-wapen ; misdaad, recht en justitie ; ['politie', 'slachtoffer', 'woning', 'agent', 'aanval']
-wapen ; internationale betrekkingen ; ['kernwapen', 'land', 'veiligheid', 'conflict', 'president']
-wapen ; dieren ; ['jacht', 'jager', 'man', 'vrouw', 'jager-verzamelaar']
-pot ; familie ; ['banaan', 'ingrediënt', 'boter', 'gewicht', 'recept']
-aanval ; wetten en rechten ; ['bedrijf', 'cybercrimineel', 'land', 'mensenrechten', 'arrestatie']
-aanval ; ziekten ; ['immuunsysteem', 'cel', 'indringer', 'lichaam', 'gezondheid']
-aanval ; gewapend conflict ; ['burger', 'mens', 'regio', 'doelwit', 'staat']
-steun ; verkiezingen ; ['stem', 'vereniging', 'president', 'overheid', 'financiering']
-steun ; bedrijfsinformatie ; ['bedrijf', 'geld', 'misbruik', 'akkoord', 'vereniging']
-gerecht ; lifestyle ; ['restaurant', 'chef', 'huis', 'automaat', 'takeaway']
-gerecht ; rechterlijke macht ; ['onderzoek', 'cliënt', 'advocaat', 'man', 'brand']
-opname ; gezondheid ; ['aantal', 'ziekenhuis', 'besmetting', 'mens', 'golf']
-opname ; mensen ; ['mens', 'acteur', 'film', 'televisie', 'rol']
-uitstoot ; klimaatverandering ; ['land', 'daling', 'opwarming', 'broeikasgas', 'auto']
-uitstoot ; politiek ; ['land', 'doelstelling', 'landbouwer', 'stikstof', 'vee']
-tafel ; politiek ; ['mens', 'politiek', 'land', 'partij', 'vergadering']
-tafel ; samenleving ; ['mens', 'armoede', 'bord', 'ziekenhuis', 'groente']
-schade ; sport ; ['sporter', 'lichaam', 'topsporter', 'virus', 'protocol']
-schade ; rechterlijke macht ; ['rechtbank', 'advocaat', 'onderzoek', 'procedure', 'gevangenis']
-platform ; overheidsbeleid ; ['welzijn', 'student', 'ziekenhuis', 'minister', 'beheersovereenkomst']
-platform ; bedrijfsinformatie ; ['bedrijf', 'facebook', 'mediabedrijf', 'regel', 'techreuz']
-operatie ; dieren ; ['geld', 'hond', 'asiel', 'mens', 'huisdier']
-operatie ; ziekten ; ['fonds', 'ziekenhuis', 'arts', 'tandarts', 'wachttijd']
-operatie ; politiek ; ['militair', 'politie', 'defensie', 'mens', 'kamp']
-fles ; ziekten ; ['dosis', 'vaccin', 'flacon', 'hoeveelheid', 'land']
-fles ; lifestyle en vrije tijd ; ['wijn', 'bier', 'prijs', 'fruit', 'champagne']
-baas ; dieren ; ['hond', 'dier', 'mens', 'knop', 'leiband']
-baas ; economie, business en financiën ; ['economie', 'bedrijf', 'regel', 'loon', 'zaak']
-asiel ; dieren ; ['hond', 'mens', 'dier', 'dierenasiel', 'operatie']
-asiel ; politiek  ; ['mens', 'land', 'staatssecretaris', 'migrant', 'terugkeer']
-ster ; human interest ; ['restaurant', 'keuken', 'papa', 'licht', 'chef']
-ster ; natuurwetenschappen ; ['planeet', 'baan', 'zonnestelsel', 'systeem', 'exoplaneet']
-bloem ; economie, business en financiën ; ['snoeihout', 'twijg', 'jaar', 'winkel', 'plant']
-bloem ; lifestyle ; ['deeg', 'water', 'boter', 'peper', 'brood']
-hart ; gezondheid ; ['mens', 'bloed', 'leven', 'ziekenhuis', 'ziekte']
-hart ; mensen ; ['kind', 'mens', 'leven', 'moeder', 'liefde']
-straling ; economie, business en financiën ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-straling ; natuurwetenschappen ; ['aarde', 'experiment', 'kloon', 'dna', 'ruimte']
-straling ; ziekten ; ['experiment', 'bacterie', 'aarde', 'ontdekking', 'huid']
-data ; wetenschap en technologie ; ['technologie', 'gegeven', 'code', 'kunstmaan', 'informatie']
-data ; sociale wetenschappen ; ['platform', 'gegeven', 'burger', 'informatie', 'overheid']
-temperatuur ; weerfenomeen ; ['land', 'jaar', 'meting', 'record', 'periode']
-temperatuur ; ziekten ; ['vaccin', 'koorts', 'fase', 'middel', 'dosis']
-bank ; bedrijfsinformatie ; ['lobby', 'klant', 'belang', 'auto', 'bankier']
-bank ; sport ; ['speler', 'match', 'veld', 'wissel', 'rust']
-bank ; rechterlijke macht ; ['rechtbank', 'huurwaarborg', 'eigenaar', 'verdenking', 'onderzoeksrechter']
-vlees ; lifestyle ; ['smaak', 'groente', 'bord', 'gerecht', 'recept']
-vlees ; milieu ; ['dier', 'bedrijf', 'landbouw', 'boer', 'stal']
-tent ; samenleving ; ['migrant', 'vluchteling', 'boot', 'kind', 'grens']
-tent ; human interest ; ['gezin', 'kind', 'vakantie', 'café', 'natuur']
-nederlaag ; verkiezingen ; ['president', 'werk', 'arbeid', 'verkiezing', 'mens']
-nederlaag ; sportevenement ; ['wedstrijd', 'speler', 'punt', 'seizoen', 'ploeg']
-band ; familie ; ['broer', 'vriend', 'vriendschap', 'mens', 'vader']
-band ; sport ; ['race', 'ronde', 'wereldkampioen', 'baan', 'pitstop']
-cel ; gezondheid ; ['kankercel', 'immuunsysteem', 'indringer', 'ziekenhuis', 'ziekteverwekker']
-cel ; misdaad ; ['man', 'slachtoffer', 'rechtbank', 'vrouw', 'feit']
-cel ; politiek ; ['agent', 'visum', 'politie', 'land', 'protest']
-stem ; kunst, cultuur en entertainment ; ['mens', 'nummer', 'zangeres', 'band', 'leven']
-stem ; verkiezingen ; ['president', 'staat', 'verkiezing', 'kiesman', 'hertelling']
-afdeling ; ziekten ; ['bewoner', 'patiënt', 'mens', 'ziekenhuis', 'zorg']
-afdeling ; economische sector ; ['bedrijf', 'baas', 'onderneming', 'mens', 'loopbaan']
-plant ; dieren ; ['bos', 'boom', 'vogel', 'dier', 'struik']
-plant ; rechterlijke macht ; ['man', 'woning', 'plantage', 'politie', 'huis']
-zee ; weersvoorspelling ; ['maximum', 'wind', 'land', 'westen', 'regen']
-zee ; immigratie ; ['migrant', 'vluchteling', 'boot', 'grens', 'kind']
-zee ; kunst, cultuur en entertainment ; ['land', 'schip', 'boot', 'kaper', 'water']
-route ; politiek ; ['migrant', 'vluchteling', 'mens', 'grens', 'boot']
-route ; vrije tijd ; ['wandeling', 'knooppunt', 'wandelnetwerk', 'pad', 'weg']
-parket ; politiek ; ['politie', 'minister', 'zaak', 'agent', 'geweld']
-parket ; human interest ; ['vloer', 'bewoner', 'huis', 'bewoning', 'fase']
-papier ; politiek ; ['mens', 'land', 'terugkeer', 'partij', 'asiel']
-papier ; vrije tijd ; ['foto', 'kaart', 'levering', 'bestelling', 'envelop']
-papier ; milieuvervuiling ; ['zwerfvuil ', 'dier', 'doos', 'grond', 'afval']
-niveau ; sportevenement ; ['speler', 'spits', 'competitie', 'kwaliteit', 'jongen']
-niveau ; ziekten ; ['gezondheidszorg', 'mens', 'advies', 'middel', 'voorraad']
-voorzitter ; verkiezingen ; ['partij', 'gemeenteraad', 'president', 'staat', 'kiesman']
-voorzitter ; sport ; ['club', 'trainer', 'speler', 'seizoen', 'mens']
-voorzitter ; bedrijfsinformatie ; ['bedrijf', 'baas', 'product', 'werk', 'loon']
-camera ; misdaad ; ['drones', 'burgemeester', 'politie', 'boete', 'trajectcontrole']
-camera ; kunst en entertainment ; ['mens', 'film', 'televisie', 'journalist', 'kandidaat']
-model ; bedrijfsinformatie ; ['auto', 'merk', 'iphone', 'telefoon', 'stadsauto']
-model ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-model ; ziekten ; ['aantal', 'golf', 'woonzorgcentra', 'land', 'virus']
-afwas ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'glas']
-aanslag ; misdaad ; ['proces', 'mens', 'slachtoffer', 'politie', 'terrorist']
-kamer ; politiek ; ['president', 'staat', 'kiesman', 'bewoner', 'mens']
-kamer ; vrije tijd ; ['zoon', 'kind', 'bed', 'huis', 'familie']
-kamer ; ziekten ; ['bewoner', 'patiënt', 'zorg', 'mens', 'huis']
-golf ; burgerlijke onrust ; ['protest', 'land', 'regering', 'burgeroorlog', 'mens']
-golf ; politiek ; ['land', 'mens', 'cijfer', 'maatregel', 'regering']
-punt ; sport ; ['wedstrijd', 'ploeg', 'rebound', 'seizoen', 'groep']
-punt ; human interest ; ['vraag', 'presentator', 'kandidaat', 'deelnemer', 'quiz']
-glas ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'afwas']
-middel ; ziekten ; ['gezondheidszorg', 'vaccin', 'fase', 'advies', 'voorraad']
-licht ; wetenschap en technologie ; ['atoom', 'atoomklok', 'zon', 'experiment', 'onderzoeker']
-licht ; ziekten ; ['huid', 'zon', 'bacterie', 'warmte', 'mens']
-periode ; sportevenement ; ['speler', 'wedstrijd', 'seizoen', 'coach', 'ploeg']
-periode ; verkiezingen ; ['president', 'staat', 'kiesman', 'stem', 'verkiezingsdag']
-periode ; wetenschap en technologie ; ['soort', 'ontdekking', 'student', 'mens', 'schedel']
-markt ; economie ; ['bedrijf', 'akkoord', 'koers', 'beurs', 'bank']
-markt ; lifestyle ; ['bier', 'wijn', 'fruit', 'prijs', 'bos']
-markt ; werk ; ['tarief', 'gevolg', 'prijs', 'deel', 'woning']
-ruimte ; wetenschap en technologie ; ['straling', 'aarde', 'telescoop', 'experiment', 'crisis']
-ruimte ; economische sector ; ['woning', 'huis', 'gemeente', 'grond', 'stad']
-ruimte ; sociale toestand ; ['virus', 'land', 'golf', 'mens', 'boomplanter']
-burger ; conflicten, oorlog en vrede ; ['kind', 'foto', 'aantal', 'luchtaanval', 'aanval']
-burger ; rechterlijke macht ; ['proces', 'slachtoffer', 'jurylid', 'assisen', 'jury']
-systeem ; wetenschap en technologie ; ['planeet', 'baan', 'zonnestelsel', 'exoplaneet', 'ster']
-systeem ; immigratie ; ['registratie', 'mens', 'fedasil', 'slaap', 'staatssecretaris']
-auto ; bedrijfsinformatie ; ['sleutel', 'merk', 'model', 'stadsauto', 'automerk']
-auto ; klimaatverandering ; ['verkoop', 'plug-in-hybride', 'uitstoot', 'batterij', 'wagen']
-auto ; milieu ; ['wagen', 'lage-emissiezone', 'klimaat', 'rapport', 'studie']
-auto ; sportdiscipline ; ['race', 'wedstrijd', 'speler', 'wagen', 'snelheid']
-auto ; wetenschap en technologie ; ['sleutel', 'wagen', 'bestuurder', 'fabrikant', 'firmware']
-water ; weer ; ['gebied', 'vijver', 'waterstand', 'oever', 'orkaan']
-water ; internationale betrekkingen ; ['visser', 'stad', 'zee', 'visserij', 'schip']
-water ; dieren ; ['bos', 'boom', 'dier', 'plant', 'visser']
-water ; ziekten ; ['stad', 'afval', 'bacterie', 'oog', 'vervuiling']
-staal ; ziekten ; ['virus', 'mutatie', 'besmetting', 'onderzoeker', 'onderzoek']
-staal ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-lijn ; economie_ business en financiën ; ['bus', 'tram', 'mens', 'halte', 'vervoer']
-lijn ; sportdiscipline ; ['wedstrijd', 'renner', 'sprinter', 'zilver', 'sprint']
-bal ; kunst en entertainment ; ['papier', 'feest', 'zaal', 'muziek', 'dans']
-bal ; sportevenement ; ['winnaar', 'wedstrijd', 'speler', 'goal', 'voetbal']
-rol ; kunst en entertainment ; ['acteur', 'film', 'opname', 'carrière', 'naam']
-rol ; verkiezingen ; ['voorzitter', 'coöperatie', 'president', 'politiek', 'partij']
-boom ; dieren ; ['bos', 'plant', 'struik', 'vogel', 'natuurgebied']
-boom ; milieuvervuiling ; ['hout', 'park', 'kerstboom', 'camera', 'verbrandingsoven']
-set ; sportdiscipline ; ['ronde', 'finale', 'wedstrijd', 'punt', 'kwartfinale']
-set ; kunst en entertainment ; ['acteur', 'seizoen', 'musical', 'telenovelle', 'scène']
-lijst ; sport ; ['speler', 'ploeg', 'club', 'deelname', 'reserve']
-lijst ; verkiezingen ; ['partij', 'land', 'president', 'kiesman', 'stem']
-speler ; lifestyle en vrije tijd ; ['winnaar', 'jackpot', 'spel', 'vakantie', 'droom']
-speler ; sportevenement ; ['wedstrijd', 'club', 'seizoen', 'ploeg', 'match']
-spel ; vrije tijd ; ['game', 'console', 'playstation', 'controller', 'spelcomputer']
-spel ; sport ; ['basketbal', 'ploeg', 'club', 'match', 'goal']
-site ; wetenschap en technologie ; ['opgraving', 'vonst', 'muurschildering', 'ontdekking', 'schedel']
-site ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-site ; immigratie ; ['asielzoeker', 'opvangcentrum', 'opvang', 'staatssecretaris', 'privatisering']
-selectie ; lifestyle ; ['fruit', 'fles', 'wijn', 'mond', 'neus']
-selectie ; sport ; ['speler', 'wedstrijd', 'ploeg', 'club', 'match']
-rapport ; onderwijs en opvoeding ; ['kind', 'leerkracht', 'school', 'ouder', 'expert']
-rapport ; milieu ; ['klimaat', 'hout', 'soort', 'bedrijf', 'dier']
-lid ; sport ; ['club', 'trainer', 'training', 'voetbal', 'club']
-lid ; politiek ; ['partij', 'groep', 'president', 'verband', 'lidstaten']
-glas ; gezondheid ; ['bril', 'leesbril', 'opticien', 'lezen', 'warenhuis']
-glas ; economie ; ['wijn', 'fruit', 'vaatwasser', 'vaat', 'fles']
-glas ; rechterlijke macht ; ['moord', 'inbraak', 'geweld', 'wagen', 'dna']
-energie ; overheidsbeleid ; ['zonnepaneel', 'stroom', 'minister', 'thuisbatterij', 'elektriciteit']
-energie ; samenleving ; ['kind', 'pauze', 'ouder', 'ontspanning', 'relaxatie']
-suiker ; gezondheid ; ['diabetes', 'lichaam', 'ziekte', 'gewicht', 'insuline']
-suiker ; human interest ; ['rum', 'eetlepel', 'wijn', 'deeg', 'recept']
-single ; human interest ; ['zanger', 'nummer', 'keer', 'zangeres', 'tekst']
-single ; samenleving ; ['alleenstaande', 'huur', 'woning', 'opvoeding', 'kind']
-kip ; dieren ; ['dier', 'vogel', 'vogelgriep', 'virus', 'boerderij']
-kip ; lifestyle en vrije tijd ; ['smaak', 'recept', 'oven', 'kruiden', 'aardappel']
-kandidaat ; politiek ; ['president', 'stem', 'staat', 'verkiezing', 'voorzitter']
-kandidaat ; onderwijs en opvoeding ; ['examen', 'student', 'onderwijs', 'school', 'examencommissie']
-verkrachting ; misdaad ; ['moord', 'geweld', 'slachtoffer', 'meisje', 'dader']
-verhaal ; school ; ['kind', 'boek', 'bus', 'school', 'lezen']
-vaccinatiecampagne ; gezondheid ; ['vaccin', 'ziekte', 'dosis', 'vaccinaelektriciteittie', 'overheid']
-uitbraak ; ziekten ; ['bewoner', 'besmetting', 'mutatie', 'gemeente', 'virus']
-tuin ; dieren ; ['boom', 'dier', 'vogel', 'hond', 'konijn']
-test ; ziekten ; ['bacterie', 'quarantaine', 'controle', 'ziekenhuis', 'patiënt']
-terrein ; lifestyle en vrije tijd ; ['wandeling', 'route', 'afstand', 'knooppunt', 'moeilijkheidsgraad']
-team ; sport ; ['seizoen', 'club', 'speler', 'wedstrijd', 'ploeg']
-team ; wetenschap en technologie ; ['onderzoeker', 'ontdekking', 'atoom', 'studie', 'fysica']
-staatssecretaris ; immigratie ; ['president', 'terugkeer', 'asielzoeker', 'verkiezing', 'procedure']
-sport ; sport ; ['tennis', 'atleet', 'voetbal', 'match', 'club']
-smaak ; economische sector ; ['wijn', 'fruit', 'rum', 'gin', 'fles']
-slachtoffer ; demografie ; ['migrant', 'vluchteling', 'journalist', 'schadevergoeding', 'politie']
-seizoen ; sportevenement ; ['club', 'wedstrijd', 'speler', 'goal', 'match']
-schadevergoeding ; rampen en ongevallen ; ['fonds', 'slachtoffer', 'overweg', 'rechtbank', 'advies']
-rijbewijs ; samenleving ; ['bestuurder', 'politie', 'chauffeur', 'voertuig', 'drug']
-revolutie ; burgerlijke onrust ; ['land', 'protest', 'stem', 'president', 'regering']
-recept ; lifestyle ; ['deeg', 'noedels', 'ingrediënt', 'oven', 'peper']
-psycholoog ; wetenschap en technologie ; ['depressie', 'angst', 'verbondenheid', 'patiënt', 'probleem']
-provincie ; dieren ; ['hoornaar', 'recreatiegebied', 'bewoner', 'huis', 'bewoning']
-protest ; burgerlijke onrust ; ['burgeroorlog', 'land', 'revolutie', 'regering', 'burgeroorlog']
-professor ; wetenschap en technologie ; ['onderzoeker', 'dosis', 'studie', 'virus', 'onderzoek']
-product ; bedrijfsinformatie ; ['bedrijf', 'ondernemer', 'organisatie', 'sector', 'voorraad']
-procedure ; demografie ; ['mens', 'staatssecretaris', 'registratie', 'systeem', 'fedasil']
-politicus ; overheid ; ['burger', 'politiek', 'partij', 'maatregel', 'minister']
-patiënt ; economie_ business en financiën ; ['ziekenhuis', 'apotheker', 'onderzoek', 'zorg', 'kinderafdeling']
-park ; dieren ; ['dier', 'ezel', 'boom', 'hond', 'knop']
-oven ; gezondheid ; ['aardappel', 'filodeeg', 'brie', 'spinazie', 'kip']
-onderzoeker ; wetenschap en technologie ; ['mens', 'studie', 'onderzoek', 'student', 'gen']
-onderzoek ; misdaad ; ['politie', 'zaak', 'parket', 'man', 'cocaïne']
-netwerk ; economie_ business en financiën ; ['bedrijf', 'hacker', 'computer', 'cyberaanval', 'technologie']
-muziek ; economie_ business en financiën ; ['film', 'koptelefoon', 'beeld', 'omroep', 'theater']
-moord ; rechterlijke macht ; ['vrouw', 'dna', 'broek', 'man', 'proces']
-mama ; familie ; ['kind', 'ziekenhuis', 'leven', 'ouder', 'moedermelk']
-makelaar ; economie_ business en financiën ; ['discriminatie', 'woning', 'huis', 'huurder', 'villa']
-makelaar ; sportevenement ; ['speler', 'club', 'renner', 'transfer', 'contract']
-loon ; werk ; ['werknemer', 'bedrijf', 'sector', 'arbeider', 'werkgever']
-liefde ; samenleving ; ['leven', 'mens', 'vrouw', 'relatie', 'kind']
-leerling ; school ; ['school', 'kind', 'leerkracht', 'onderwijs', 'klas']
-leerkracht ; onderwijs en opvoeding ; ['leerling', 'school', 'kind', 'onderwijs', 'klas']
-landbouw ; economische sector ; ['boer', 'bedrijf', 'natuur', 'grond', 'dier']
-klas ; school ; ['school', 'leerling', 'kind', 'leerkracht', 'onderwijs']
-klant ; mensen ; ['mens', 'café', 'winkel', 'kapper', 'zaak']
-impact ; milieu ; ['natuurgebied', 'landbouw', 'bedrijf', 'lage-emissiezone', 'boer']
-hout ; milieuvervuiling ; ['boom', 'stof', 'buur', 'houtkachel', 'verbrandingsoven']
-hond ; dieren ; ['dier', 'mens', 'wolf', 'baas', 'politie']
-geweld ; gewapend conflict ; ['aanval', 'protest', 'groep', 'slachtoffer', 'oorlog']
-elektriciteit ; internationale betrekkingen ; ['land', 'stroom', 'energie', 'brandstof', 'kerncentrale']
-dier ; dieren ; ['hond', 'kat', 'wolf', 'vogel', 'bos']
-deeg ; economische sector ; ['boter', 'stuk', 'rol', 'suiker', 'chip']
-contract ; tewerkstelling ; ['bedrijf', 'werkloosheid', 'uitzendkracht', 'ploeg', 'seizoenarbeider']
-bus ; economie_ business en financiën ; ['wagen', 'vervoer', 'halte', 'chauffeur', 'fietser']
-boek ; cultuur ; ['bibliotheek', 'school', 'collectie', 'kind', 'lezer']
-bier ; economie_ business en financiën ; ['brouwerij', 'smaak', 'brouwer', 'fles', 'product']
-bestuurder ; dieren ; ['auto', 'agent', 'voertuig', 'getuige', 'dier']
-bed ; ziekten ; ['patiënt', 'ziekenhuis', 'zorg', 'slaap', 'baby']
-afval ; overheid ; ['container', 'recyclagepark', 'gemeente', 'zak', 'lozing']
-advocaat ; misdaad ; ['man', 'slachtoffer', 'cliënt', 'hond', 'feit']
-aankoop ; economie ; ['winkel', 'product', 'website', 'klant', 'solden']
-wolf ; dieren ; ['hond', 'schaap', 'dier', 'mens', 'omheining']
-wandelaar ; dieren ; ['mens', 'dier', 'hond', 'natuurgebied', 'ree']
-vrachtwagen ; demografie ; ['migrant', 'vluchteling', 'politie', 'grens', 'buurt']
-verkiezing ; politiek ; ['president', 'stem', 'staat', 'partij', 'land']
-verbondenheid ; sociale wetenschappen ; ['buurt', 'familie', 'gezin', 'autonomie', 'gezondheid']
-vennootschap ; bedrijfsinformatie ; ['bedrijf', 'faillissement', 'bewindvoerder', 'winkel', 'onderneming']
-vakbond ; bedrijfsinformatie ; ['werk', 'arbeid', 'werknemer', 'ploeg', 'bedrijf']
-terugkeer ; demografie ; ['mens', 'land', 'staatssecretaris', 'asiel', 'registratie']
-tandarts ; economie_ business en financiën ; ['wachttijd', 'patiënt', 'praktijk', 'probleem', 'afspraak']
-school ; school ; ['leerling', 'kind', 'onderwijs', 'leerkracht', 'klas']
-rente ; economie ; ['bank', 'geld', 'tarief', 'rendement', 'beurs']
-regering ; politiek ; ['overheid', 'minister', 'land', 'president', 'maatregel']
-president ; verkiezingen ; ['verkiezing', 'staat', 'stem', 'partij', 'kiesman']
-premier ; politiek ; ['land', 'partij', 'president', 'regering', 'akkoord']
-politiek ; overheid ; ['politicus', 'generaal', 'regering', 'partij', 'minister']
-oorlog ; conflicten_ oorlog en vrede ; ['gebied', 'wereld', 'groep', 'verzet', 'conflict']
-natuurgebied ; dieren ; ['hond', 'boom', 'bos', 'gebied', 'natuur']
-natuur ; natuur ; ['bos', 'hond', 'natuurgebied', 'grond', 'vogel']
-moeder ; samenleving ; ['kind', 'vrouw', 'vader', 'gezin', 'dochter']
-migratie ; immigratie ; ['migrant', 'land', 'asielzoeker', 'immigrant', 'vluchteling']
-kerncentrale ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kernuitstap', 'afval']
-ingrediënt ; lifestyle en vrije tijd ; ['deeg', 'recept', 'eetlepel', 'water', 'noedels']
-dictator ; politiek ; ['protest', 'land', 'regering', 'burgeroorlog', 'president']
-dader ; misdaad ; ['politie', 'man', 'slachtoffer', 'aanslag', 'vrouw']
-aardgas ; economische sector ; ['gezin', 'elektriciteit', 'nachttarief', 'radiator', 'woning']
-kip ; economische sector ; ['boer', 'boerderij', 'koe', 'landbouwer', 'vee']
-satelliet ; wetenschap en technologie ; ['technologie', 'ruimte', 'planeet', 'kunstmaan', 'informatie']
-internet ; economie_ business en financiën ; ['misdaad', 'aanval', 'cyberaanval', 'cybercrimineel', 'sleutel']
-bril ; samenleving ; ['gerecht', 'geweld', 'uitbuiting', 'bestuur', 'politie']
-windturbine ; economie ; ['minister', 'president', 'adviseur', 'benoeming', 'zaak']
-windturbine ; misdaad_ recht en justitie ; ['rekening', 'geld', 'slachtoffer', 'dader', 'geweld']
-windturbine ; human interest ; ['olijfolie', 'eetlepel', 'oven', 'recept', 'bakker']
-supermarkt ; verkiezingen ; ['partij', 'mens', 'president', 'verkiezing', 'politicus']
-kerk ; onderwijs en opvoeding ; ['banaan', 'boter', 'suiker', 'recept', 'keuken']
-windturbine ; lifestyle ; ['bier', 'groente', 'vlees', 'fruit', 'gerecht']
-natuur ; economie_ business en financiën ; ['misdaad', 'aanval', 'cyberaanval', 'cybercrimineel', 'sleutel']
-zorgbedrijf ; rechterlijke macht ; ['collaborateur', 'geweld', 'oorlog', 'nazi', 'slachtoffer']
-cybercrimineel ; economie ; ['vaatwasser', 'vaat', 'afwas', 'kuis', 'reinigingsmiddel']
-cybercrimineel ; onderwijs en opvoeding ; ['school', 'leerling', 'onderwijs', 'minister', 'toestel']
-televisie ; misdaad_ recht en justitie ; ['geld', 'bank', 'slachtoffer', 'bedrag', 'lening']
-vaat ; lifestyle en vrije tijd ; ['huis', 'brand', 'brandweer', 'slachtoffer', 'herenhuis']
-zon ; overheidsbeleid ; ['media', 'minister', 'artikel', 'klacht', 'journalist']
-gerecht ; human interest ; ['vakantie', 'zee', 'water', 'zon', 'strand']
-draad ; lifestyle en vrije tijd ; ['banaan', 'ingrediënt', 'boter', 'aardappel', 'recept']
-cybercrimineel ; politiek ; ['woning', 'huur', 'huisvestingsmaatschappij', 'verhuurkantoor', 'verhuurder']
-wandelaar ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-symptoom ; kunst en entertainment ; ['lepel', 'bord', 'chef', 'vlees', 'keuken']
-voetbal ; wetten en rechten ; ['politie', 'computer', 'bedrijf', 'quarantaine', 'cybercrimineel']
-belegging ; natuurwetenschappen ; ['planeet', 'zon', 'zonnestelsel', 'exoplaneet', 'ster']
-lepel ; wetenschap en technologie ; ['technologie', 'ruimte', 'planeet', 'kunstmaan', 'informatie']
-politie ; economie ; ['wijn', 'fruit', 'vaatwasser', 'vaat', 'fles']
-politie ; lifestyle ; ['plant', 'tuin', 'groente', 'landbouw', 'teelt']
-advocaat ; lifestyle ; ['vitamine', 'immuunsysteem', 'cel', 'indringer', 'ziekte']
-afval ; economie ; ['huurinkomst', 'inkomen', 'basis', 'quarantaine', 'kaart']
-afval ; mensen ; ['liefde', 'schat', 'huwelijk', 'koppel', 'trouw']
-afval ; misdaad ; ['moord', 'pak', 'seriemoordenaar', 'bank', 'rekening']
-afval ; verkiezingen ; ['president', 'macht', 'stem', 'staat', 'advocaat']
-theater ; lifestyle en vrije tijd ; ['wandelaar', 'fiets', 'koffie', 'kapel', 'kaars']
-theater ; mensen ; ['jeugdhuis', 'schat', 'huwelijk', 'koppel', 'trouw']
-theater ; ongeval ; ['ongeval', 'straf', 'wagen', 'avond', 'vluchtmisdrijf']
-theater ; economie ; ['lening', 'verzekering', 'verbod', 'vuurwerk', 'woonlening']
-huwelijk ; internationale betrekkingen ; ['landbouwer', 'stikstof', 'natuur', 'fietser', 'landbouwweg']
-huwelijk ; onderwijs en opvoeding ; ['banaan', 'ingrediënt', 'boter', 'gewicht', 'recept']
-huwelijk ; ongeval ; ['zaakvoerder', 'arbeidsongeval', 'gebrek', 'veiligheid', 'ongeval']
-huwelijk ; vrije tijd ; ['vogel', 'natuurgebied', 'natuur', 'watervogel', 'plek']
-exoplaneet ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus']
-exoplaneet ; ongeval ; ['zaakvoerder', 'arbeidsongeval', 'gebrek', 'veiligheid', 'ongeval']
-exoplaneet ; economie, business en financiën ; ['bestuurder', 'wagen', 'fietser', 'reactor', 'vrachtwagen']
-exoplaneet ; milieu ; ['brand', 'bever', 'natuurgebied', 'lage-emissiezone', 'opwarming']
-been ; lifestyle en vrije tijd ; ['banaan', 'ingrediënt', 'boter', 'gewicht', 'recept']
-been ; massamedia ; ['seizoen', 'acteur', 'reeks', 'actrice', 'scène']
-bever ; overheidsbeleid ; ['akkoord', 'stap', 'vakbond', 'zorgsector', 'premie']
-bever ; verkiezingen ; ['president', 'verkiezing', 'partij', 'aanklager', 'staat']
-zorgsector ; kunst en entertainment ; ['master', 'muziek', 'plaat', 'album', 'auteursrecht']
-pleister ; lifestyle en vrije tijd ; ['game', 'console', 'playstation', 'controller', 'spelcomputer']
-pleister ; milieu ; ['brand', 'bever', 'natuurgebied', 'lage-emissiezone', 'opwarming']
-pleister ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind']
-pleister ; sport ; ['start', 'team', 'organisator', 'parcours', 'atleet']
-bestuur ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'glas']
-bier ; gezondheid ; ['immuunsysteem', 'cel', 'vurus', 'indringer', 'ziekte']
-bier ; internationale betrekkingen ; ['landbouwer', 'stikstof', 'natuur', 'boer', 'staat']
-bier ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'doel', 'afval']
-boer ; misdaad ; ['moord', 'pak', 'seriemoordenaar', 'bank', 'rekening']
-bier ; pensioen ; ['studiejaar', 'pensioen', 'premie', 'belasting', 'tarief']
-boete ; onderwijs en opvoeding ; ['opleiding', 'onderwijs', 'examen', 'les', 'docent']
-brief ; lifestyle ; ['huid', 'haar', 'zone', 'sessie', 'laser']
-bus ; lifestyle en vrije tijd ; ['banaan', 'ingrediënt', 'boter', 'gewicht', 'recept']
-bus ; ongeval ; ['zaakvoerder', 'arbeidsongeval', 'gebrek', 'veiligheid', 'ongeval']
-vluchtmisdrijf ; medische behandeling ; ['ontdekking', 'immuunsysteem', 'virus', 'cel', 'ziekteverwekker']
-vluchtmisdrijf ; milieu ; ['landbouwer', 'stikstof', 'natuur', 'natuurgebied', 'boer']
-banaan ; sport ; ['club', 'seizoen', 'speler', 'renner', 'ploeg']
-vluchtmisdrijf ; economie ; ['wijn', 'fruit', 'vaatwasser', 'vaat', 'fles']
-vluchtmisdrijf ; sport ; ['club', 'seizoen', 'speler', 'renner', 'ploeg']
-café ; economie ; ['kredietkaart', 'bank', 'verzekering', 'rood', 'kredietlijn']
-camera ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus']
-camera ; politiek ; ['partij', 'president', 'verkiezing', 'toespraak', 'platform']
-centrum ; economie, business en financiën ; ['huid', 'kapper', 'behandeling', 'zone', 'sessie']
-chocolade ; sport ; ['papa', 'wedstrijd', 'voetbal', 'mama', 'renner']
-chocolade ; sport ; ['speler', 'stage', 'club', 'buitenland', 'obstakel']
-kapper ; economie, business en financiën ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-afval ; kunst en entertainment ; ['concert', 'band', 'release', 'liveconcert', 'muziek']
-crisis ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind']
-data ; economie, business en financiën ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-data ; economische sector ; ['zicht', 'bril', 'leesbril', 'opticien', 'glas']
-data ; economische sector ; ['teller', 'premie', 'installatie', 'energie', 'dak']
-data ; gezondheid ; ['aardappel', 'filodeeg', 'brie', 'spinazie', 'kip']
-dienstencentrum ; economie, business en financiën ; ['fietssnelweg', 'fiets', 'fietser', 'weg', 'rustpunt']
-dienstencentrum ; gezondheid ; ['straling', 'ziekte', 'bacterie', 'ontdekking', 'gezondheid']
-dienstencentrum ; lifestyle en vrije tijd ; ['game', 'console', 'playstation', 'controller', 'spelcomputer']
-dienstencentrum ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-dienstencentrum ; milieu ; ['vogel', 'natuur', 'gebied', 'landbouwer', 'stikstof']
-dienstencentrum ; misdaad ; ['assisen', 'partij', 'assisenproces', 'verdachte', 'proces']
-dienstverlening ; internationale betrekkingen ; ['landbouwer', 'stikstof', 'natuur', 'boer', 'staat']
-dier ; economische sector ; ['game', 'console', 'spel', 'controller', 'spelcomputer']
-kerncentrale ; kunst en entertainment ; ['oven', 'aardappel', 'filodeeg', 'brie', 'spinazie']
-kerncentrale ; misdaad ; ['moord', 'pak', 'seriemoordenaar', 'bank', 'rekening']
-dossier ; human interest ; ['rat', 'dier', 'geur', 'vlees', 'onderzoeker']
-natuurgebied ; internationale betrekkingen ; ['landbouwer', 'stikstof', 'natuur', 'boer', 'staat']
-kerncentrale ; vrije tijd ; ['bos', 'centrum', 'appartement', 'begraafplaats', 'wandelaar']
-kerncentrale ; economie ; ['lening', 'verzekering', 'verbod', 'vuurwerk', 'woonlening']
-kerncentrale ; lifestyle en vrije tijd ; ['wandeling', 'route', 'afstand', 'knooppunt', 'moeilijkheidsgraad']
-club ; pensioen ; ['studiejaar', 'pensioen', 'premie', 'rekening', 'tarief']
-eiland ; massamedia ; ['seizoen', 'acteur', 'reeks', 'actrice', 'scène']
-eiland ; ongeval ; ['ongeval', 'straf', 'wagen', 'avond', 'vluchtmisdrijf']
-eiland ; human interest ; ['rat', 'dier', 'geur', 'vlees', 'onderzoeker']
-energie ; familie ; ['penis', 'erectie', 'pleister', 'erectieprobleem', 'uroloog']
-energie ; human interest ; ['seizoen', 'jurk', 'kleren', 'serie', 'kleding']
-energie ; internationale betrekkingen ; ['migrant', 'premier', 'verblijfsrecht', 'president', 'richtlijn']
-leesbril ; sport ; ['speler', 'ploeg', 'wedstrijd', 'seizoen', 'competitie']
-leesbril ; wetten en rechten ; ['drones', 'qr-code', 'systeem', 'technologie', 'politiezone']
-leesbril ; massamedia ; ['journalist', 'artikel', 'klacht', 'rechtszaak', 'schending']
-leesbril ; pensioen ; ['studiejaar', 'pensioen', 'rekening', 'belasting', 'tarief']
-leesbril ; internationale betrekkingen ; ['stikstof', 'natuur', 'boer', 'fietser', 'landbouwweg']
-spinazie ; medische behandeling ; ['ontdekking', 'immuunsysteem', 'virus', 'cel', 'ziekteverwekker']
-spinazie ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind']
-competitie ; lifestyle ; ['soep', 'noedels', 'deeg', 'brood', 'kaas']
-fiets ; milieu ; ['stof', 'hout', 'houtkachel', 'verwarming', 'gas']
-fiets ; sociale wetenschappen ; ['natuur', 'wolf', 'uitwerpsel', 'schaap', 'vee']
-fiets ; verkiezingen ; ['president', 'verkiezing', 'partij', 'aanklager', 'staat']
-fonds ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus']
-fonds ; misdaad, recht en justitie ; ['vuilnisbak', 'camera', 'boete', 'fles', 'brood']
-gebied ; lifestyle en vrije tijd ; ['game', 'console', 'wijn', 'spel', 'controller']
-president ; vrije tijd ; ['vogel', 'natuurgebied', 'soort', 'watervogel', 'natuur']
-controller ; milieuvervuiling ; ['dier', 'gevel', 'vlees', 'precisiefermentatie', 'snoeihout']
-controller ; samenleving ; ['banaan', 'ingrediënt', 'boter', 'eetstoornis', 'recept']
-banaan ; sociale wetenschappen ; ['staal', 'wolf', 'uitwerpsel', 'schaap', 'vee']
-gevangenis ; lifestyle ; ['huid', 'haar', 'behandeling', 'zone', 'laser']
-gevangenis ; ongeval ; ['zaakvoerder', 'arbeidsongeval', 'gebrek', 'veiligheid', 'restaurant']
-deeg ; gezondheid ; ['straling', 'aarde', 'bacterie', 'ontdekking', 'kip']
-deeg ; sport ; ['publiek', 'vip', 'toeschouwer', 'amateurclub', 'koers']
-deeg ; sportevenement ; ['wedstrijd', 'club', 'seizoen', 'ploeg', 'match']
-amateurclub ; economie, business en financiën ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-amateurclub ; internationale betrekkingen ; ['gebruiker', 'mediabedrijf', 'techreuz', 'strijd', 'data']
-amateurclub ; internationale betrekkingen ; ['stikstof', 'natuur', 'boer', 'fietser', 'landbouwweg']
-amateurclub ; overheidsbeleid ; ['akkoord', 'stap', 'vakbond', 'zorgsector', 'premie']
-amateurclub ; wetten en rechten ; ['mensenrechten', 'wet', 'diegene', 'negationist', 'oorlog']
-revolutie ; misdaad ; ['hond', 'schaap', 'dier', 'boer', 'vee']
-revolutie ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-revolutie ; sport ; ['publiek', 'vip', 'toeschouwer', 'amateurclub', 'koers']
-groente ; bedrijfsinformatie ; ['gezondheid', 'werknemer', 'mondmasker', 'werkgever', 'wet']
-groente ; lifestyle ; ['huid', 'haar', 'behandeling', 'sessie', 'laser']
-groente ; misdaad, recht en justitie ; ['verkeer', 'camera', 'boete', 'auto', 'verkeer']
-haar ; economie ; ['kredietkaart', 'bank', 'verzekering', 'rood', 'kredietlijn']
-haar ; lifestyle ; ['hamburger', 'ijs', 'shaker', 'bereiding', 'restaurant']
-fiets ; human interest ; ['olijfolie', 'eetlepel', 'oven', 'deeg', 'saus']
-glas ; kunst en entertainment ; ['museum', 'gescheidenis', 'collaborateur', 'nazi', 'oorlog']
-glas ; samenleving ; ['immigrant', 'praktijktest', 'generatie', 'zelfregulering', 'discriminatie']
-glas ; verkiezingen ; ['president', 'verkiezing', 'stem', 'staat', 'gouverneur']
-hoofd ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-hout ; lifestyle en vrije tijd ; ['game', 'controller', 'achtbaan', 'serie', 'spelcomputer']
-huisarts ; misdaad, recht en justitie ; ['gevangenis', 'kok', 'souschef', 'eten', 'quarantaine']
-professor ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'glas']
-professor ; verkiezingen ; ['president', 'verkiezing', 'partij', 'aanklager', 'staat']
-professor ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind']
-kandidaat ; samenleving ; ['banaan', 'ingrediënt', 'boter', 'eetstoornis', 'recept']
-kerncentrale ; lifestyle ; ['huid', 'haar', 'zone', 'sessie', 'laser']
-kerncentrale ; milieuvervuiling ; ['dier', 'gevel', 'vlees', 'precisiefermentatie', 'snoeihout']
-kerncentrale ; economie, business en financiën ; ['huid', 'kapper', 'behandeling', 'zone', 'sessie']
-kerncentrale ; sport ; ['speler', 'ploeg', 'club', 'seizoen', 'wedstrijd']
-kip ; misdaad ; ['geweld', 'agent', 'proces', 'moord', 'dood']
-kip ; verkiezingen ; ['president', 'staat', 'kiesman', 'voorstel', 'stem']
-huisarts ; kunst en entertainment ; ['muziek', 'band', 'concert', 'muziek', 'release']
-groente ; wetten en rechten ; ['drones', 'qr-code', 'systeem', 'technologie', 'politiezone']
-koord ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus']
-koord ; ongeval ; ['ongeval', 'bestuurder', 'cliënt', 'appartement', 'advocaat']
-koord ; politiek ; ['partij', 'president', 'verkiezing', 'toespraak', 'platform']
-hond ; economie, business en financiën ; ['auto', 'vervoer', 'halte', 'chauffeur', 'fietser']
-groente ; pensioen ; ['studiejaar', 'pensioen', 'premie', 'belasting', 'tarief']
-landbouw ; sport ; ['schorsing', 'fraude', 'speeldag', 'doping', 'fiets']
-landbouw ; wetten en rechten ; ['mensenrechten', 'regime', 'arrestatie', 'president', 'executie']
-psycholoog ; internationale betrekkingen ; ['landbouwer', 'natuur', 'natuurgebied', 'boer', 'staat']
-lichaam ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-makelaar ; misdaad ; ['bank', 'bericht', 'dader', 'mail', 'gsm']
-markt ; sportevenement ; ['speler', 'voetbal', 'ploeg', 'coach', 'club']
-rapport ; economie ; ['wijn', 'vlek', 'vaatwasser', 'vaat', 'fles']
-migrant ; rechterlijke macht ; ['oorlog', 'collaborateur', 'geweld', 'nazi', 'cel']
-migrant ; human interest ; ['seizoen', 'jurk', 'kleren', 'serie', 'kleding']
-mond ; lifestyle en vrije tijd ; ['wandeling', 'route', 'afstand', 'knooppunt', 'moeilijkheidsgraad']
-suiker ; verkiezingen ; ['president', 'macht', 'stem', 'staat', 'advocaat']
-suiker ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus']
-suiker ; pensioen ; ['studiejaar', 'pensioen', 'premie', 'rekening', 'tarief']
-oorlog ; milieuvervuiling ; ['dier', 'gevel', 'vlees', 'precisiefermentatie', 'snoeihout']
-suiker ; politiek ; ['partij', 'president', 'verkiezing', 'toespraak', 'platform']
-oorlog ; sportevenement ; ['wedstrijd', 'club', 'seizoen', 'ploeg', 'match']
-aandeel ; economie ; ['wijn', 'fruit', 'groenten', 'vlees', 'aardappel']
-aandeel ; lifestyle en vrije tijd ; ['game', 'console', 'winnaar', 'spel', 'controller']
-aandeel ; milieu ; ['vogel', 'natuur', 'gebied', 'landbouwer', 'stikstof']
-aandeel ; natuurlijke hulpbronnen ; ['zonnepaneel', 'premie', 'stroom', 'teller', 'installatie']
-oven ; milieu ; ['ijsberg', 'bangladesh', 'vulkaan', 'bhasan', 'natuur']
-oven ; natuurlijke hulpbronnen ; ['zonnepaneel', 'premie', 'stroom', 'teller', 'installatie']
-oven ; samenleving ; ['immigrant', 'praktijktest', 'generatie', 'zelfregulering', 'discriminatie']
-oven ; sport ; ['startgeld', 'cross', 'top', 'crosser', 'wedstrijd']
-papier ; rechterlijke macht ; ['veroordeling', 'collaborateur', 'oorlog', 'nazi', 'cel']
-papier ; sport ; ['speler', 'ploeg', 'wedstrijd', 'seizoen', 'trainer']
-parket ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'glas']
-parket ; natuurwetenschappen ; ['planeet', 'baan', 'zonnestelsel', 'exoplaneet', 'ster']
-parket ; sport ; ['ploeg', 'koersfiets', 'fiets', 'wedstrijd', 'rit']
-partij ; economische sector ; ['zicht', 'bril', 'leesbril', 'opticien', 'glas']
-politicus ; kunst, cultuur en entertainment ; ['kleren', 'modeshow', 'interview', 'ontwerper', 'model']
-bed ; lifestyle ; ['glas', 'elektriciteit', 'tocht', 'raam', 'binnenmuurisolatie']
-bed ; milieu ; ['fabriek', 'boete', 'geurhinder', 'afval', 'bezinkingsvijver']
-politicus ; ongeval ; ['ongeval', 'straf', 'wagen', 'avond', 'vluchtmisdrijf']
-pot ; economie, business en financiën ; ['bestuurder', 'wagen', 'fietser', 'reactor', 'vrachtwagen']
-pot ; misdaad ; ['bank', 'overval', 'dader', 'geweld', 'dood']
-pot ; weer ; ['maximum', 'zee', 'sneeuw', 'wind', 'regen']
-leerling ; economische sector ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-leerling ; internationale betrekkingen ; ['stikstof', 'natuur', 'boer', 'fietser', 'landbouwweg']
-leerling ; natuurlijke hulpbronnen ; ['zonnepaneel', 'premie', 'stroom', 'teller', 'installatie']
-oven ; internationale betrekkingen ; ['akkoord', 'landbouwer', 'stikstof', 'natuur', 'natuurgebied']
-procedure ; sport ; ['wedstrijd', 'punt', 'speler', 'seizoen', 'ploeg']
-oven ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-bed ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-bed ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'straling', 'afval']
-patiënt ; politiek ; ['president', 'staat', 'verkiezing', 'kiesman', 'hertelling']
-quarantaine ; sport ; ['ploeg', 'koersfiets', 'fiets', 'koers', 'wedstrijd']
-quarantaine ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind']
-recept ; geloof ; ['les', 'kaars', 'meningsuiting', 'kerk', 'geloof']
-recht ; sport ; ['ploeg', 'koersfiets', 'koerts', 'fiets', 'wedstrijd']
-school ; demografie ; ['asielzoeker', 'opvangcentrum', 'opvang', 'staatssecretaris', 'privatisering']
-rechtbank ; sport ; ['speler', 'club', 'transfer', 'team', 'data']
-school ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus']
-school ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-ingrediënt ; internationale betrekkingen ; ['platform', 'mediabedrijf', 'techreuz', 'technologie', 'data']
-ingrediënt ; sport ; ['speler', 'wedstrijd', 'scheidsrechter', 'club', 'ploeg']
-ingrediënt ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-reis ; economie, business en financiën ; ['huid', 'kapper', 'behandeling', 'zone', 'sessie']
-reis ; internationale betrekkingen ; ['president', 'journalist', 'premier', 'artikel', 'aanleiding']
-aardgas ; kunst en entertainment ; ['master', 'muziek', 'plaat', 'album', 'auteursrecht']
-aardgas ; lifestyle ; ['huid', 'dagcrème', 'licht', 'zon', 'gezicht']
-aardgas ; lifestyle en vrije tijd ; ['game', 'console', 'wijn', 'spel', 'controller']
-aardgas ; verkiezingen ; ['president', 'staat', 'kiesman', 'voorstel', 'stem']
-route ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus']
-route ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval']
-route ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind']
-tuin ; bedrijfsinformatie ; ['game', 'controller', 'serie', 'spelcomputer', 'console']
-tuin ; economische sector ; ['bus', 'tram', 'halte', 'vervoer', 'autocar']
-tuin ; lifestyle en vrije tijd ; ['game', 'controller', 'achtbaan', 'serie', 'spelcomputer']
-tuin ; misdaad, recht en justitie ; ['bemiddelaar', 'buurtbemiddelaar', 'code', 'partij', 'buur']
-suiker ; natuurwetenschappen ; ['planeet', 'baan', 'zonnestelsel', 'exoplaneet', 'ster']
-suiker ; internationale betrekkingen ; ['president', 'journalist', 'premier', 'artikel', 'aanleiding']
-suiker ; ongeval ; ['ongeval', 'bestuurder', 'cliënt', 'appartement', 'advocaat']
-suiker ; ongeval ; ['zaakvoerder', 'arbeidsongeval', 'gebrek', 'veiligheid', 'ongeval']
-deeg ; kunst, cultuur en entertainment ; ['persconferentie', 'dossier', 'logo', 'uitzending', 'reportage']
-deeg ; natuurlijke hulpbronnen ; ['zonnepaneel', 'premie', 'stroom', 'teller', 'installatie']
-deeg ; vrije tijd ; ['bos', 'centrum', 'appartement', 'begraafplaats', 'wandelaar']
-muziek ; economie, business en financiën ; ['fietssnelweg', 'fiets', 'fietser', 'weg', 'rustpunt']
-muziek ; rechterlijke macht ; ['rechtbank', 'huurwaarborg', 'eigenaar', 'verdenking', 'onderzoeksrechter']
-muziek ; economische sector ; ['zonnepaneel', 'journalist', 'buitenland', 'eigenaar', 'lening']
-muziek ; sociale wetenschappen ; ['staal', 'wolf', 'uitwerpsel', 'schaap', 'vee']
-diepvries ; economische sector ; ['journalist', 'platform', 'moord', 'intimidatie', 'gebruiker']
-wandelaar ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'afwas']
-staatssecretaris ; lifestyle en vrije tijd ; ['wandeling', 'route', 'afstand', 'knooppunt', 'moeilijkheidsgraad']
-stem ; lifestyle en vrije tijd ; ['wandeling', 'route', 'afstand', 'knooppunt', 'moeilijkheidsgraad']
-stikstof ; human interest ; ['olijfolie', 'eetlepel', 'oven', 'deeg', 'saus']
-stock ; economische sector ; ['bus', 'tram', 'halte', 'vervoer', 'autocar']
-rijbewijs ; lifestyle en vrije tijd ; ['game', 'controller', 'achtbaan', 'serie', 'spelcomputer']
-rijbewijs ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'glas']
-rijbewijs ; milieu ; ['fabriek', 'boete', 'geurhinder', 'melding', 'bezinkingsvijver']
+winnaar ; vrije tijd ; ['game', 'jackpot', 'speler', 'loterij', 'prijs'] ; 1
+winnaar ; verkiezingen ; ['staat', 'stem', 'president', 'kiesman', 'verkiezing'] ; 1
+winnaar ; massamedia ; ['man', 'vraag', 'huis', 'quiz', 'deelnemer'] ; 1
+winnaar ; sport ; ['seizoen', 'doelpunt', 'goal', 'zilver', 'goud'] ; 1
+lied ; politiek ; ['volkslied', 'partij', 'foto', 'stad', 'volk'] ; 1
+wapen ; misdaad, recht en justitie ; ['politie', 'slachtoffer', 'woning', 'agent', 'aanval'] ; 1
+wapen ; internationale betrekkingen ; ['kernwapen', 'land', 'veiligheid', 'conflict', 'president'] ; 1
+wapen ; dieren ; ['jacht', 'jager', 'man', 'vrouw', 'jager-verzamelaar'] ; 1
+pot ; familie ; ['banaan', 'ingrediënt', 'boter', 'gewicht', 'recept'] ; 1
+aanval ; wetten en rechten ; ['bedrijf', 'cybercrimineel', 'land', 'mensenrechten', 'arrestatie'] ; 1
+aanval ; ziekten ; ['immuunsysteem', 'cel', 'indringer', 'lichaam', 'gezondheid'] ; 1
+aanval ; gewapend conflict ; ['burger', 'mens', 'regio', 'doelwit', 'staat'] ; 1
+steun ; verkiezingen ; ['stem', 'vereniging', 'president', 'overheid', 'financiering'] ; 1
+steun ; bedrijfsinformatie ; ['bedrijf', 'geld', 'misbruik', 'akkoord', 'vereniging'] ; 1
+gerecht ; lifestyle ; ['restaurant', 'chef', 'huis', 'automaat', 'takeaway'] ; 1
+gerecht ; rechterlijke macht ; ['onderzoek', 'cliënt', 'advocaat', 'man', 'brand'] ; 1
+opname ; gezondheid ; ['aantal', 'ziekenhuis', 'besmetting', 'mens', 'golf'] ; 1
+opname ; mensen ; ['mens', 'acteur', 'film', 'televisie', 'rol'] ; 1
+uitstoot ; klimaatverandering ; ['land', 'daling', 'opwarming', 'broeikasgas', 'auto'] ; 1
+uitstoot ; politiek ; ['land', 'doelstelling', 'landbouwer', 'stikstof', 'vee'] ; 1
+tafel ; politiek ; ['mens', 'politiek', 'land', 'partij', 'vergadering'] ; 1
+tafel ; samenleving ; ['mens', 'armoede', 'bord', 'ziekenhuis', 'groente'] ; 1
+schade ; sport ; ['sporter', 'lichaam', 'topsporter', 'virus', 'protocol'] ; 1
+schade ; rechterlijke macht ; ['rechtbank', 'advocaat', 'onderzoek', 'procedure', 'gevangenis'] ; 1
+platform ; overheidsbeleid ; ['welzijn', 'student', 'ziekenhuis', 'minister', 'beheersovereenkomst'] ; 1
+platform ; bedrijfsinformatie ; ['bedrijf', 'facebook', 'mediabedrijf', 'regel', 'techreuz'] ; 1
+operatie ; dieren ; ['geld', 'hond', 'asiel', 'mens', 'huisdier'] ; 1
+operatie ; ziekten ; ['fonds', 'ziekenhuis', 'arts', 'tandarts', 'wachttijd'] ; 1
+operatie ; politiek ; ['militair', 'politie', 'defensie', 'mens', 'kamp'] ; 1
+fles ; ziekten ; ['dosis', 'vaccin', 'flacon', 'hoeveelheid', 'land'] ; 1
+fles ; lifestyle en vrije tijd ; ['wijn', 'bier', 'prijs', 'fruit', 'champagne'] ; 1
+baas ; dieren ; ['hond', 'dier', 'mens', 'knop', 'leiband'] ; 1
+baas ; economie, business en financiën ; ['economie', 'bedrijf', 'regel', 'loon', 'zaak'] ; 1
+asiel ; dieren ; ['hond', 'mens', 'dier', 'dierenasiel', 'operatie'] ; 1
+asiel ; politiek  ; ['mens', 'land', 'staatssecretaris', 'migrant', 'terugkeer'] ; 1
+ster ; human interest ; ['restaurant', 'keuken', 'papa', 'licht', 'chef'] ; 1
+ster ; natuurwetenschappen ; ['planeet', 'baan', 'zonnestelsel', 'systeem', 'exoplaneet'] ; 1
+bloem ; economie, business en financiën ; ['snoeihout', 'twijg', 'jaar', 'winkel', 'plant'] ; 1
+bloem ; lifestyle ; ['deeg', 'water', 'boter', 'peper', 'brood'] ; 1
+hart ; gezondheid ; ['mens', 'bloed', 'leven', 'ziekenhuis', 'ziekte'] ; 1
+hart ; mensen ; ['kind', 'mens', 'leven', 'moeder', 'liefde'] ; 1
+straling ; economie, business en financiën ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 1
+straling ; natuurwetenschappen ; ['aarde', 'experiment', 'kloon', 'dna', 'ruimte'] ; 1
+straling ; ziekten ; ['experiment', 'bacterie', 'aarde', 'ontdekking', 'huid'] ; 1
+data ; wetenschap en technologie ; ['technologie', 'gegeven', 'code', 'kunstmaan', 'informatie'] ; 1
+data ; sociale wetenschappen ; ['platform', 'gegeven', 'burger', 'informatie', 'overheid'] ; 1
+temperatuur ; weerfenomeen ; ['land', 'jaar', 'meting', 'record', 'periode'] ; 1
+temperatuur ; ziekten ; ['vaccin', 'koorts', 'fase', 'middel', 'dosis'] ; 1
+bank ; bedrijfsinformatie ; ['lobby', 'klant', 'belang', 'auto', 'bankier'] ; 1
+bank ; sport ; ['speler', 'match', 'veld', 'wissel', 'rust'] ; 1
+bank ; rechterlijke macht ; ['rechtbank', 'huurwaarborg', 'eigenaar', 'verdenking', 'onderzoeksrechter'] ; 1
+vlees ; lifestyle ; ['smaak', 'groente', 'bord', 'gerecht', 'recept'] ; 1
+vlees ; milieu ; ['dier', 'bedrijf', 'landbouw', 'boer', 'stal'] ; 1
+tent ; samenleving ; ['migrant', 'vluchteling', 'boot', 'kind', 'grens'] ; 1
+tent ; human interest ; ['gezin', 'kind', 'vakantie', 'café', 'natuur'] ; 1
+nederlaag ; verkiezingen ; ['president', 'werk', 'arbeid', 'verkiezing', 'mens'] ; 1
+nederlaag ; sportevenement ; ['wedstrijd', 'speler', 'punt', 'seizoen', 'ploeg'] ; 1
+band ; familie ; ['broer', 'vriend', 'vriendschap', 'mens', 'vader'] ; 1
+band ; sport ; ['race', 'ronde', 'wereldkampioen', 'baan', 'pitstop'] ; 1
+cel ; gezondheid ; ['kankercel', 'immuunsysteem', 'indringer', 'ziekenhuis', 'ziekteverwekker'] ; 1
+cel ; misdaad ; ['man', 'slachtoffer', 'rechtbank', 'vrouw', 'feit'] ; 1
+cel ; politiek ; ['agent', 'visum', 'politie', 'land', 'protest'] ; 1
+stem ; kunst, cultuur en entertainment ; ['mens', 'nummer', 'zangeres', 'band', 'leven'] ; 1
+stem ; verkiezingen ; ['president', 'staat', 'verkiezing', 'kiesman', 'hertelling'] ; 1
+afdeling ; ziekten ; ['bewoner', 'patiënt', 'mens', 'ziekenhuis', 'zorg'] ; 1
+afdeling ; economische sector ; ['bedrijf', 'baas', 'onderneming', 'mens', 'loopbaan'] ; 1
+plant ; dieren ; ['bos', 'boom', 'vogel', 'dier', 'struik'] ; 1
+plant ; rechterlijke macht ; ['man', 'woning', 'plantage', 'politie', 'huis'] ; 1
+zee ; weersvoorspelling ; ['maximum', 'wind', 'land', 'westen', 'regen'] ; 1
+zee ; immigratie ; ['migrant', 'vluchteling', 'boot', 'grens', 'kind'] ; 1
+zee ; kunst, cultuur en entertainment ; ['land', 'schip', 'boot', 'kaper', 'water'] ; 1
+route ; politiek ; ['migrant', 'vluchteling', 'mens', 'grens', 'boot'] ; 1
+route ; vrije tijd ; ['wandeling', 'knooppunt', 'wandelnetwerk', 'pad', 'weg'] ; 1
+parket ; politiek ; ['politie', 'minister', 'zaak', 'agent', 'geweld'] ; 1
+parket ; human interest ; ['vloer', 'bewoner', 'huis', 'bewoning', 'fase'] ; 1
+papier ; politiek ; ['mens', 'land', 'terugkeer', 'partij', 'asiel'] ; 1
+papier ; vrije tijd ; ['foto', 'kaart', 'levering', 'bestelling', 'envelop'] ; 1
+papier ; milieuvervuiling ; ['zwerfvuil ', 'dier', 'doos', 'grond', 'afval'] ; 1
+niveau ; sportevenement ; ['speler', 'spits', 'competitie', 'kwaliteit', 'jongen'] ; 1
+niveau ; ziekten ; ['gezondheidszorg', 'mens', 'advies', 'middel', 'voorraad'] ; 1
+voorzitter ; verkiezingen ; ['partij', 'gemeenteraad', 'president', 'staat', 'kiesman'] ; 1
+voorzitter ; sport ; ['club', 'trainer', 'speler', 'seizoen', 'mens'] ; 1
+voorzitter ; bedrijfsinformatie ; ['bedrijf', 'baas', 'product', 'werk', 'loon'] ; 1
+camera ; misdaad ; ['drones', 'burgemeester', 'politie', 'boete', 'trajectcontrole'] ; 1
+camera ; kunst en entertainment ; ['mens', 'film', 'televisie', 'journalist', 'kandidaat'] ; 1
+model ; bedrijfsinformatie ; ['auto', 'merk', 'iphone', 'telefoon', 'stadsauto'] ; 1
+model ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 1
+model ; ziekten ; ['aantal', 'golf', 'woonzorgcentra', 'land', 'virus'] ; 1
+afwas ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'glas'] ; 1
+aanslag ; misdaad ; ['proces', 'mens', 'slachtoffer', 'politie', 'terrorist'] ; 1
+kamer ; politiek ; ['president', 'staat', 'kiesman', 'bewoner', 'mens'] ; 1
+kamer ; vrije tijd ; ['zoon', 'kind', 'bed', 'huis', 'familie'] ; 1
+kamer ; ziekten ; ['bewoner', 'patiënt', 'zorg', 'mens', 'huis'] ; 1
+golf ; burgerlijke onrust ; ['protest', 'land', 'regering', 'burgeroorlog', 'mens'] ; 1
+golf ; politiek ; ['land', 'mens', 'cijfer', 'maatregel', 'regering'] ; 1
+punt ; sport ; ['wedstrijd', 'ploeg', 'rebound', 'seizoen', 'groep'] ; 1
+punt ; human interest ; ['vraag', 'presentator', 'kandidaat', 'deelnemer', 'quiz'] ; 1
+glas ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'afwas'] ; 1
+middel ; ziekten ; ['gezondheidszorg', 'vaccin', 'fase', 'advies', 'voorraad'] ; 1
+licht ; wetenschap en technologie ; ['atoom', 'atoomklok', 'zon', 'experiment', 'onderzoeker'] ; 1
+licht ; ziekten ; ['huid', 'zon', 'bacterie', 'warmte', 'mens'] ; 1
+periode ; sportevenement ; ['speler', 'wedstrijd', 'seizoen', 'coach', 'ploeg'] ; 1
+periode ; verkiezingen ; ['president', 'staat', 'kiesman', 'stem', 'verkiezingsdag'] ; 1
+periode ; wetenschap en technologie ; ['soort', 'ontdekking', 'student', 'mens', 'schedel'] ; 1
+markt ; economie ; ['bedrijf', 'akkoord', 'koers', 'beurs', 'bank'] ; 1
+markt ; lifestyle ; ['bier', 'wijn', 'fruit', 'prijs', 'bos'] ; 1
+markt ; werk ; ['tarief', 'gevolg', 'prijs', 'deel', 'woning'] ; 1
+ruimte ; wetenschap en technologie ; ['straling', 'aarde', 'telescoop', 'experiment', 'crisis'] ; 1
+ruimte ; economische sector ; ['woning', 'huis', 'gemeente', 'grond', 'stad'] ; 1
+ruimte ; sociale toestand ; ['virus', 'land', 'golf', 'mens', 'boomplanter'] ; 1
+burger ; conflicten, oorlog en vrede ; ['kind', 'foto', 'aantal', 'luchtaanval', 'aanval'] ; 1
+burger ; rechterlijke macht ; ['proces', 'slachtoffer', 'jurylid', 'assisen', 'jury'] ; 1
+systeem ; wetenschap en technologie ; ['planeet', 'baan', 'zonnestelsel', 'exoplaneet', 'ster'] ; 1
+systeem ; immigratie ; ['registratie', 'mens', 'fedasil', 'slaap', 'staatssecretaris'] ; 1
+auto ; bedrijfsinformatie ; ['sleutel', 'merk', 'model', 'stadsauto', 'automerk'] ; 1
+auto ; klimaatverandering ; ['verkoop', 'plug-in-hybride', 'uitstoot', 'batterij', 'wagen'] ; 1
+auto ; milieu ; ['wagen', 'lage-emissiezone', 'klimaat', 'rapport', 'studie'] ; 1
+auto ; sportdiscipline ; ['race', 'wedstrijd', 'speler', 'wagen', 'snelheid'] ; 1
+auto ; wetenschap en technologie ; ['sleutel', 'wagen', 'bestuurder', 'fabrikant', 'firmware'] ; 1
+water ; weer ; ['gebied', 'vijver', 'waterstand', 'oever', 'orkaan'] ; 1
+water ; internationale betrekkingen ; ['visser', 'stad', 'zee', 'visserij', 'schip'] ; 1
+water ; dieren ; ['bos', 'boom', 'dier', 'plant', 'visser'] ; 1
+water ; ziekten ; ['stad', 'afval', 'bacterie', 'oog', 'vervuiling'] ; 1
+staal ; ziekten ; ['virus', 'mutatie', 'besmetting', 'onderzoeker', 'onderzoek'] ; 1
+staal ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 1
+lijn ; economie_ business en financiën ; ['bus', 'tram', 'mens', 'halte', 'vervoer'] ; 1
+lijn ; sportdiscipline ; ['wedstrijd', 'renner', 'sprinter', 'zilver', 'sprint'] ; 1
+bal ; kunst en entertainment ; ['papier', 'feest', 'zaal', 'muziek', 'dans'] ; 1
+bal ; sportevenement ; ['winnaar', 'wedstrijd', 'speler', 'goal', 'voetbal'] ; 1
+rol ; kunst en entertainment ; ['acteur', 'film', 'opname', 'carrière', 'naam'] ; 1
+rol ; verkiezingen ; ['voorzitter', 'coöperatie', 'president', 'politiek', 'partij'] ; 1
+boom ; dieren ; ['bos', 'plant', 'struik', 'vogel', 'natuurgebied'] ; 1
+boom ; milieuvervuiling ; ['hout', 'park', 'kerstboom', 'camera', 'verbrandingsoven'] ; 1
+set ; sportdiscipline ; ['ronde', 'finale', 'wedstrijd', 'punt', 'kwartfinale'] ; 1
+set ; kunst en entertainment ; ['acteur', 'seizoen', 'musical', 'telenovelle', 'scène'] ; 1
+lijst ; sport ; ['speler', 'ploeg', 'club', 'deelname', 'reserve'] ; 1
+lijst ; verkiezingen ; ['partij', 'land', 'president', 'kiesman', 'stem'] ; 1
+speler ; lifestyle en vrije tijd ; ['winnaar', 'jackpot', 'spel', 'vakantie', 'droom'] ; 1
+speler ; sportevenement ; ['wedstrijd', 'club', 'seizoen', 'ploeg', 'match'] ; 1
+spel ; vrije tijd ; ['game', 'console', 'playstation', 'controller', 'spelcomputer'] ; 1
+spel ; sport ; ['basketbal', 'ploeg', 'club', 'match', 'goal'] ; 1
+site ; wetenschap en technologie ; ['opgraving', 'vonst', 'muurschildering', 'ontdekking', 'schedel'] ; 1
+site ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 1
+site ; immigratie ; ['asielzoeker', 'opvangcentrum', 'opvang', 'staatssecretaris', 'privatisering'] ; 1
+selectie ; lifestyle ; ['fruit', 'fles', 'wijn', 'mond', 'neus'] ; 1
+selectie ; sport ; ['speler', 'wedstrijd', 'ploeg', 'club', 'match'] ; 1
+rapport ; onderwijs en opvoeding ; ['kind', 'leerkracht', 'school', 'ouder', 'expert'] ; 1
+rapport ; milieu ; ['klimaat', 'hout', 'soort', 'bedrijf', 'dier'] ; 1
+lid ; sport ; ['club', 'trainer', 'training', 'voetbal', 'club'] ; 1
+lid ; politiek ; ['partij', 'groep', 'president', 'verband', 'lidstaten'] ; 1
+glas ; gezondheid ; ['bril', 'leesbril', 'opticien', 'lezen', 'warenhuis'] ; 1
+glas ; economie ; ['wijn', 'fruit', 'vaatwasser', 'vaat', 'fles'] ; 1
+glas ; rechterlijke macht ; ['moord', 'inbraak', 'geweld', 'wagen', 'dna'] ; 1
+energie ; overheidsbeleid ; ['zonnepaneel', 'stroom', 'minister', 'thuisbatterij', 'elektriciteit'] ; 1
+energie ; samenleving ; ['kind', 'pauze', 'ouder', 'ontspanning', 'relaxatie'] ; 1
+suiker ; gezondheid ; ['diabetes', 'lichaam', 'ziekte', 'gewicht', 'insuline'] ; 1
+suiker ; human interest ; ['rum', 'eetlepel', 'wijn', 'deeg', 'recept'] ; 1
+single ; human interest ; ['zanger', 'nummer', 'keer', 'zangeres', 'tekst'] ; 1
+single ; samenleving ; ['alleenstaande', 'huur', 'woning', 'opvoeding', 'kind'] ; 1
+kip ; dieren ; ['dier', 'vogel', 'vogelgriep', 'virus', 'boerderij'] ; 1
+kip ; lifestyle en vrije tijd ; ['smaak', 'recept', 'oven', 'kruiden', 'aardappel'] ; 1
+kandidaat ; politiek ; ['president', 'stem', 'staat', 'verkiezing', 'voorzitter'] ; 1
+kandidaat ; onderwijs en opvoeding ; ['examen', 'student', 'onderwijs', 'school', 'examencommissie'] ; 1
+verkrachting ; misdaad ; ['moord', 'geweld', 'slachtoffer', 'meisje', 'dader'] ; 1
+verhaal ; school ; ['kind', 'boek', 'bus', 'school', 'lezen'] ; 1
+vaccinatiecampagne ; gezondheid ; ['vaccin', 'ziekte', 'dosis', 'vaccinaelektriciteittie', 'overheid'] ; 1
+uitbraak ; ziekten ; ['bewoner', 'besmetting', 'mutatie', 'gemeente', 'virus'] ; 1
+tuin ; dieren ; ['boom', 'dier', 'vogel', 'hond', 'konijn'] ; 1
+test ; ziekten ; ['bacterie', 'quarantaine', 'controle', 'ziekenhuis', 'patiënt'] ; 1
+terrein ; lifestyle en vrije tijd ; ['wandeling', 'route', 'afstand', 'knooppunt', 'moeilijkheidsgraad'] ; 1
+team ; sport ; ['seizoen', 'club', 'speler', 'wedstrijd', 'ploeg'] ; 1
+team ; wetenschap en technologie ; ['onderzoeker', 'ontdekking', 'atoom', 'studie', 'fysica'] ; 1
+staatssecretaris ; immigratie ; ['president', 'terugkeer', 'asielzoeker', 'verkiezing', 'procedure'] ; 1
+sport ; sport ; ['tennis', 'atleet', 'voetbal', 'match', 'club'] ; 1
+smaak ; economische sector ; ['wijn', 'fruit', 'rum', 'gin', 'fles'] ; 1
+slachtoffer ; demografie ; ['migrant', 'vluchteling', 'journalist', 'schadevergoeding', 'politie'] ; 1
+seizoen ; sportevenement ; ['club', 'wedstrijd', 'speler', 'goal', 'match'] ; 1
+schadevergoeding ; rampen en ongevallen ; ['fonds', 'slachtoffer', 'overweg', 'rechtbank', 'advies'] ; 1
+rijbewijs ; samenleving ; ['bestuurder', 'politie', 'chauffeur', 'voertuig', 'drug'] ; 1
+revolutie ; burgerlijke onrust ; ['land', 'protest', 'stem', 'president', 'regering'] ; 1
+recept ; lifestyle ; ['deeg', 'noedels', 'ingrediënt', 'oven', 'peper'] ; 1
+psycholoog ; wetenschap en technologie ; ['depressie', 'angst', 'verbondenheid', 'patiënt', 'probleem'] ; 1
+provincie ; dieren ; ['hoornaar', 'recreatiegebied', 'bewoner', 'huis', 'bewoning'] ; 1
+protest ; burgerlijke onrust ; ['burgeroorlog', 'land', 'revolutie', 'regering', 'burgeroorlog'] ; 1
+professor ; wetenschap en technologie ; ['onderzoeker', 'dosis', 'studie', 'virus', 'onderzoek'] ; 1
+product ; bedrijfsinformatie ; ['bedrijf', 'ondernemer', 'organisatie', 'sector', 'voorraad'] ; 1
+procedure ; demografie ; ['mens', 'staatssecretaris', 'registratie', 'systeem', 'fedasil'] ; 1
+politicus ; overheid ; ['burger', 'politiek', 'partij', 'maatregel', 'minister'] ; 1
+patiënt ; economie_ business en financiën ; ['ziekenhuis', 'apotheker', 'onderzoek', 'zorg', 'kinderafdeling'] ; 1
+park ; dieren ; ['dier', 'ezel', 'boom', 'hond', 'knop'] ; 1
+oven ; gezondheid ; ['aardappel', 'filodeeg', 'brie', 'spinazie', 'kip'] ; 1
+onderzoeker ; wetenschap en technologie ; ['mens', 'studie', 'onderzoek', 'student', 'gen'] ; 1
+onderzoek ; misdaad ; ['politie', 'zaak', 'parket', 'man', 'cocaïne'] ; 1
+netwerk ; economie_ business en financiën ; ['bedrijf', 'hacker', 'computer', 'cyberaanval', 'technologie'] ; 1
+muziek ; economie_ business en financiën ; ['film', 'koptelefoon', 'beeld', 'omroep', 'theater'] ; 1
+moord ; rechterlijke macht ; ['vrouw', 'dna', 'broek', 'man', 'proces'] ; 1
+mama ; familie ; ['kind', 'ziekenhuis', 'leven', 'ouder', 'moedermelk'] ; 1
+makelaar ; economie_ business en financiën ; ['discriminatie', 'woning', 'huis', 'huurder', 'villa'] ; 1
+makelaar ; sportevenement ; ['speler', 'club', 'renner', 'transfer', 'contract'] ; 1
+loon ; werk ; ['werknemer', 'bedrijf', 'sector', 'arbeider', 'werkgever'] ; 1
+liefde ; samenleving ; ['leven', 'mens', 'vrouw', 'relatie', 'kind'] ; 1
+leerling ; school ; ['school', 'kind', 'leerkracht', 'onderwijs', 'klas'] ; 1
+leerkracht ; onderwijs en opvoeding ; ['leerling', 'school', 'kind', 'onderwijs', 'klas'] ; 1
+landbouw ; economische sector ; ['boer', 'bedrijf', 'natuur', 'grond', 'dier'] ; 1
+klas ; school ; ['school', 'leerling', 'kind', 'leerkracht', 'onderwijs'] ; 1
+klant ; mensen ; ['mens', 'café', 'winkel', 'kapper', 'zaak'] ; 1
+impact ; milieu ; ['natuurgebied', 'landbouw', 'bedrijf', 'lage-emissiezone', 'boer'] ; 1
+hout ; milieuvervuiling ; ['boom', 'stof', 'buur', 'houtkachel', 'verbrandingsoven'] ; 1
+hond ; dieren ; ['dier', 'mens', 'wolf', 'baas', 'politie'] ; 1
+geweld ; gewapend conflict ; ['aanval', 'protest', 'groep', 'slachtoffer', 'oorlog'] ; 1
+elektriciteit ; internationale betrekkingen ; ['land', 'stroom', 'energie', 'brandstof', 'kerncentrale'] ; 1
+dier ; dieren ; ['hond', 'kat', 'wolf', 'vogel', 'bos'] ; 1
+deeg ; economische sector ; ['boter', 'stuk', 'rol', 'suiker', 'chip'] ; 1
+contract ; tewerkstelling ; ['bedrijf', 'werkloosheid', 'uitzendkracht', 'ploeg', 'seizoenarbeider'] ; 1
+bus ; economie_ business en financiën ; ['wagen', 'vervoer', 'halte', 'chauffeur', 'fietser'] ; 1
+boek ; cultuur ; ['bibliotheek', 'school', 'collectie', 'kind', 'lezer'] ; 1
+bier ; economie_ business en financiën ; ['brouwerij', 'smaak', 'brouwer', 'fles', 'product'] ; 1
+bestuurder ; dieren ; ['auto', 'agent', 'voertuig', 'getuige', 'dier'] ; 1
+bed ; ziekten ; ['patiënt', 'ziekenhuis', 'zorg', 'slaap', 'baby'] ; 1
+afval ; overheid ; ['container', 'recyclagepark', 'gemeente', 'zak', 'lozing'] ; 1
+advocaat ; misdaad ; ['man', 'slachtoffer', 'cliënt', 'hond', 'feit'] ; 1
+aankoop ; economie ; ['winkel', 'product', 'website', 'klant', 'solden'] ; 1
+wolf ; dieren ; ['hond', 'schaap', 'dier', 'mens', 'omheining'] ; 1
+wandelaar ; dieren ; ['mens', 'dier', 'hond', 'natuurgebied', 'ree'] ; 1
+vrachtwagen ; demografie ; ['migrant', 'vluchteling', 'politie', 'grens', 'buurt'] ; 1
+verkiezing ; politiek ; ['president', 'stem', 'staat', 'partij', 'land'] ; 1
+verbondenheid ; sociale wetenschappen ; ['buurt', 'familie', 'gezin', 'autonomie', 'gezondheid'] ; 1
+vennootschap ; bedrijfsinformatie ; ['bedrijf', 'faillissement', 'bewindvoerder', 'winkel', 'onderneming'] ; 1
+vakbond ; bedrijfsinformatie ; ['werk', 'arbeid', 'werknemer', 'ploeg', 'bedrijf'] ; 1
+terugkeer ; demografie ; ['mens', 'land', 'staatssecretaris', 'asiel', 'registratie'] ; 1
+tandarts ; economie_ business en financiën ; ['wachttijd', 'patiënt', 'praktijk', 'probleem', 'afspraak'] ; 1
+school ; school ; ['leerling', 'kind', 'onderwijs', 'leerkracht', 'klas'] ; 1
+rente ; economie ; ['bank', 'geld', 'tarief', 'rendement', 'beurs'] ; 1
+regering ; politiek ; ['overheid', 'minister', 'land', 'president', 'maatregel'] ; 1
+president ; verkiezingen ; ['verkiezing', 'staat', 'stem', 'partij', 'kiesman'] ; 1
+premier ; politiek ; ['land', 'partij', 'president', 'regering', 'akkoord'] ; 1
+politiek ; overheid ; ['politicus', 'generaal', 'regering', 'partij', 'minister'] ; 1
+oorlog ; conflicten_ oorlog en vrede ; ['gebied', 'wereld', 'groep', 'verzet', 'conflict'] ; 1
+natuurgebied ; dieren ; ['hond', 'boom', 'bos', 'gebied', 'natuur'] ; 1
+natuur ; natuur ; ['bos', 'hond', 'natuurgebied', 'grond', 'vogel'] ; 1
+moeder ; samenleving ; ['kind', 'vrouw', 'vader', 'gezin', 'dochter'] ; 1
+migratie ; immigratie ; ['migrant', 'land', 'asielzoeker', 'immigrant', 'vluchteling'] ; 1
+kerncentrale ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kernuitstap', 'afval'] ; 1
+ingrediënt ; lifestyle en vrije tijd ; ['deeg', 'recept', 'eetlepel', 'water', 'noedels'] ; 1
+dictator ; politiek ; ['protest', 'land', 'regering', 'burgeroorlog', 'president'] ; 1
+dader ; misdaad ; ['politie', 'man', 'slachtoffer', 'aanslag', 'vrouw'] ; 1
+aardgas ; economische sector ; ['gezin', 'elektriciteit', 'nachttarief', 'radiator', 'woning'] ; 1
+kip ; economische sector ; ['boer', 'boerderij', 'koe', 'landbouwer', 'vee'] ; 1
+satelliet ; wetenschap en technologie ; ['technologie', 'ruimte', 'planeet', 'kunstmaan', 'informatie'] ; 1
+internet ; economie_ business en financiën ; ['misdaad', 'aanval', 'cyberaanval', 'cybercrimineel', 'sleutel'] ; 1
+bril ; samenleving ; ['gerecht', 'geweld', 'uitbuiting', 'bestuur', 'politie'] ; 0
+windturbine ; economie ; ['minister', 'president', 'adviseur', 'benoeming', 'zaak'] ; 0
+windturbine ; misdaad_ recht en justitie ; ['rekening', 'geld', 'slachtoffer', 'dader', 'geweld'] ; 0
+windturbine ; human interest ; ['olijfolie', 'eetlepel', 'oven', 'recept', 'bakker'] ; 0
+supermarkt ; verkiezingen ; ['partij', 'mens', 'president', 'verkiezing', 'politicus'] ; 0
+kerk ; onderwijs en opvoeding ; ['banaan', 'boter', 'suiker', 'recept', 'keuken'] ; 0
+windturbine ; lifestyle ; ['bier', 'groente', 'vlees', 'fruit', 'gerecht'] ; 0
+natuur ; economie_ business en financiën ; ['misdaad', 'aanval', 'cyberaanval', 'cybercrimineel', 'sleutel'] ; 0
+zorgbedrijf ; rechterlijke macht ; ['collaborateur', 'geweld', 'oorlog', 'nazi', 'slachtoffer'] ; 0
+cybercrimineel ; economie ; ['vaatwasser', 'vaat', 'afwas', 'kuis', 'reinigingsmiddel'] ; 0
+cybercrimineel ; onderwijs en opvoeding ; ['school', 'leerling', 'onderwijs', 'minister', 'toestel'] ; 0
+televisie ; misdaad_ recht en justitie ; ['geld', 'bank', 'slachtoffer', 'bedrag', 'lening'] ; 0
+vaat ; lifestyle en vrije tijd ; ['huis', 'brand', 'brandweer', 'slachtoffer', 'herenhuis'] ; 0
+zon ; overheidsbeleid ; ['media', 'minister', 'artikel', 'klacht', 'journalist'] ; 0
+gerecht ; human interest ; ['vakantie', 'zee', 'water', 'zon', 'strand'] ; 0
+draad ; lifestyle en vrije tijd ; ['banaan', 'ingrediënt', 'boter', 'aardappel', 'recept'] ; 0
+cybercrimineel ; politiek ; ['woning', 'huur', 'huisvestingsmaatschappij', 'verhuurkantoor', 'verhuurder'] ; 0
+wandelaar ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+symptoom ; kunst en entertainment ; ['lepel', 'bord', 'chef', 'vlees', 'keuken'] ; 0
+voetbal ; wetten en rechten ; ['politie', 'computer', 'bedrijf', 'quarantaine', 'cybercrimineel'] ; 0
+belegging ; natuurwetenschappen ; ['planeet', 'zon', 'zonnestelsel', 'exoplaneet', 'ster'] ; 0
+lepel ; wetenschap en technologie ; ['technologie', 'ruimte', 'planeet', 'kunstmaan', 'informatie'] ; 0
+politie ; economie ; ['wijn', 'fruit', 'vaatwasser', 'vaat', 'fles'] ; 0
+politie ; lifestyle ; ['plant', 'tuin', 'groente', 'landbouw', 'teelt'] ; 0
+advocaat ; lifestyle ; ['vitamine', 'immuunsysteem', 'cel', 'indringer', 'ziekte'] ; 0
+afval ; economie ; ['huurinkomst', 'inkomen', 'basis', 'quarantaine', 'kaart'] ; 0
+afval ; mensen ; ['liefde', 'schat', 'huwelijk', 'koppel', 'trouw'] ; 0
+afval ; misdaad ; ['moord', 'pak', 'seriemoordenaar', 'bank', 'rekening'] ; 0
+afval ; verkiezingen ; ['president', 'macht', 'stem', 'staat', 'advocaat'] ; 0
+theater ; lifestyle en vrije tijd ; ['wandelaar', 'fiets', 'koffie', 'kapel', 'kaars'] ; 0
+theater ; mensen ; ['jeugdhuis', 'schat', 'huwelijk', 'koppel', 'trouw'] ; 0
+theater ; ongeval ; ['ongeval', 'straf', 'wagen', 'avond', 'vluchtmisdrijf'] ; 0
+theater ; economie ; ['lening', 'verzekering', 'verbod', 'vuurwerk', 'woonlening'] ; 0
+huwelijk ; internationale betrekkingen ; ['landbouwer', 'stikstof', 'natuur', 'fietser', 'landbouwweg'] ; 0
+huwelijk ; onderwijs en opvoeding ; ['banaan', 'ingrediënt', 'boter', 'gewicht', 'recept'] ; 0
+huwelijk ; ongeval ; ['zaakvoerder', 'arbeidsongeval', 'gebrek', 'veiligheid', 'ongeval'] ; 0
+huwelijk ; vrije tijd ; ['vogel', 'natuurgebied', 'natuur', 'watervogel', 'plek'] ; 0
+exoplaneet ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus'] ; 0
+exoplaneet ; ongeval ; ['zaakvoerder', 'arbeidsongeval', 'gebrek', 'veiligheid', 'ongeval'] ; 0
+exoplaneet ; economie, business en financiën ; ['bestuurder', 'wagen', 'fietser', 'reactor', 'vrachtwagen'] ; 0
+exoplaneet ; milieu ; ['brand', 'bever', 'natuurgebied', 'lage-emissiezone', 'opwarming'] ; 0
+been ; lifestyle en vrije tijd ; ['banaan', 'ingrediënt', 'boter', 'gewicht', 'recept'] ; 0
+been ; massamedia ; ['seizoen', 'acteur', 'reeks', 'actrice', 'scène'] ; 0
+bever ; overheidsbeleid ; ['akkoord', 'stap', 'vakbond', 'zorgsector', 'premie'] ; 0
+bever ; verkiezingen ; ['president', 'verkiezing', 'partij', 'aanklager', 'staat'] ; 0
+zorgsector ; kunst en entertainment ; ['master', 'muziek', 'plaat', 'album', 'auteursrecht'] ; 0
+pleister ; lifestyle en vrije tijd ; ['game', 'console', 'playstation', 'controller', 'spelcomputer'] ; 0
+pleister ; milieu ; ['brand', 'bever', 'natuurgebied', 'lage-emissiezone', 'opwarming'] ; 0
+pleister ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind'] ; 0
+pleister ; sport ; ['start', 'team', 'organisator', 'parcours', 'atleet'] ; 0
+bestuur ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'glas'] ; 0
+bier ; gezondheid ; ['immuunsysteem', 'cel', 'vurus', 'indringer', 'ziekte'] ; 0
+bier ; internationale betrekkingen ; ['landbouwer', 'stikstof', 'natuur', 'boer', 'staat'] ; 0
+bier ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'doel', 'afval'] ; 0
+boer ; misdaad ; ['moord', 'pak', 'seriemoordenaar', 'bank', 'rekening'] ; 0
+bier ; pensioen ; ['studiejaar', 'pensioen', 'premie', 'belasting', 'tarief'] ; 0
+boete ; onderwijs en opvoeding ; ['opleiding', 'onderwijs', 'examen', 'les', 'docent'] ; 0
+brief ; lifestyle ; ['huid', 'haar', 'zone', 'sessie', 'laser'] ; 0
+bus ; lifestyle en vrije tijd ; ['banaan', 'ingrediënt', 'boter', 'gewicht', 'recept'] ; 0
+bus ; ongeval ; ['zaakvoerder', 'arbeidsongeval', 'gebrek', 'veiligheid', 'ongeval'] ; 0
+vluchtmisdrijf ; medische behandeling ; ['ontdekking', 'immuunsysteem', 'virus', 'cel', 'ziekteverwekker'] ; 0
+vluchtmisdrijf ; milieu ; ['landbouwer', 'stikstof', 'natuur', 'natuurgebied', 'boer'] ; 0
+banaan ; sport ; ['club', 'seizoen', 'speler', 'renner', 'ploeg'] ; 0
+vluchtmisdrijf ; economie ; ['wijn', 'fruit', 'vaatwasser', 'vaat', 'fles'] ; 0
+vluchtmisdrijf ; sport ; ['club', 'seizoen', 'speler', 'renner', 'ploeg'] ; 0
+café ; economie ; ['kredietkaart', 'bank', 'verzekering', 'rood', 'kredietlijn'] ; 0
+camera ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus'] ; 0
+camera ; politiek ; ['partij', 'president', 'verkiezing', 'toespraak', 'platform'] ; 0
+centrum ; economie, business en financiën ; ['huid', 'kapper', 'behandeling', 'zone', 'sessie'] ; 0
+chocolade ; sport ; ['papa', 'wedstrijd', 'voetbal', 'mama', 'renner'] ; 0
+chocolade ; sport ; ['speler', 'stage', 'club', 'buitenland', 'obstakel'] ; 0
+kapper ; economie, business en financiën ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+afval ; kunst en entertainment ; ['concert', 'band', 'release', 'liveconcert', 'muziek'] ; 0
+crisis ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind'] ; 0
+data ; economie, business en financiën ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+data ; economische sector ; ['zicht', 'bril', 'leesbril', 'opticien', 'glas'] ; 0
+data ; economische sector ; ['teller', 'premie', 'installatie', 'energie', 'dak'] ; 0
+data ; gezondheid ; ['aardappel', 'filodeeg', 'brie', 'spinazie', 'kip'] ; 0
+dienstencentrum ; economie, business en financiën ; ['fietssnelweg', 'fiets', 'fietser', 'weg', 'rustpunt'] ; 0
+dienstencentrum ; gezondheid ; ['straling', 'ziekte', 'bacterie', 'ontdekking', 'gezondheid'] ; 0
+dienstencentrum ; lifestyle en vrije tijd ; ['game', 'console', 'playstation', 'controller', 'spelcomputer'] ; 0
+dienstencentrum ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+dienstencentrum ; milieu ; ['vogel', 'natuur', 'gebied', 'landbouwer', 'stikstof'] ; 0
+dienstencentrum ; misdaad ; ['assisen', 'partij', 'assisenproces', 'verdachte', 'proces'] ; 0
+dienstverlening ; internationale betrekkingen ; ['landbouwer', 'stikstof', 'natuur', 'boer', 'staat'] ; 0
+dier ; economische sector ; ['game', 'console', 'spel', 'controller', 'spelcomputer'] ; 0
+kerncentrale ; kunst en entertainment ; ['oven', 'aardappel', 'filodeeg', 'brie', 'spinazie'] ; 0
+kerncentrale ; misdaad ; ['moord', 'pak', 'seriemoordenaar', 'bank', 'rekening'] ; 0
+dossier ; human interest ; ['rat', 'dier', 'geur', 'vlees', 'onderzoeker'] ; 0
+natuurgebied ; internationale betrekkingen ; ['landbouwer', 'stikstof', 'natuur', 'boer', 'staat'] ; 0
+kerncentrale ; vrije tijd ; ['bos', 'centrum', 'appartement', 'begraafplaats', 'wandelaar'] ; 0
+kerncentrale ; economie ; ['lening', 'verzekering', 'verbod', 'vuurwerk', 'woonlening'] ; 0
+kerncentrale ; lifestyle en vrije tijd ; ['wandeling', 'route', 'afstand', 'knooppunt', 'moeilijkheidsgraad'] ; 0
+club ; pensioen ; ['studiejaar', 'pensioen', 'premie', 'rekening', 'tarief'] ; 0
+eiland ; massamedia ; ['seizoen', 'acteur', 'reeks', 'actrice', 'scène'] ; 0
+eiland ; ongeval ; ['ongeval', 'straf', 'wagen', 'avond', 'vluchtmisdrijf'] ; 0
+eiland ; human interest ; ['rat', 'dier', 'geur', 'vlees', 'onderzoeker'] ; 0
+energie ; familie ; ['penis', 'erectie', 'pleister', 'erectieprobleem', 'uroloog'] ; 0
+energie ; human interest ; ['seizoen', 'jurk', 'kleren', 'serie', 'kleding'] ; 0
+energie ; internationale betrekkingen ; ['migrant', 'premier', 'verblijfsrecht', 'president', 'richtlijn'] ; 0
+leesbril ; sport ; ['speler', 'ploeg', 'wedstrijd', 'seizoen', 'competitie'] ; 0
+leesbril ; wetten en rechten ; ['drones', 'qr-code', 'systeem', 'technologie', 'politiezone'] ; 0
+leesbril ; massamedia ; ['journalist', 'artikel', 'klacht', 'rechtszaak', 'schending'] ; 0
+leesbril ; pensioen ; ['studiejaar', 'pensioen', 'rekening', 'belasting', 'tarief'] ; 0
+leesbril ; internationale betrekkingen ; ['stikstof', 'natuur', 'boer', 'fietser', 'landbouwweg'] ; 0
+spinazie ; medische behandeling ; ['ontdekking', 'immuunsysteem', 'virus', 'cel', 'ziekteverwekker'] ; 0
+spinazie ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind'] ; 0
+competitie ; lifestyle ; ['soep', 'noedels', 'deeg', 'brood', 'kaas'] ; 0
+fiets ; milieu ; ['stof', 'hout', 'houtkachel', 'verwarming', 'gas'] ; 0
+fiets ; sociale wetenschappen ; ['natuur', 'wolf', 'uitwerpsel', 'schaap', 'vee'] ; 0
+fiets ; verkiezingen ; ['president', 'verkiezing', 'partij', 'aanklager', 'staat'] ; 0
+fonds ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus'] ; 0
+fonds ; misdaad, recht en justitie ; ['vuilnisbak', 'camera', 'boete', 'fles', 'brood'] ; 0
+gebied ; lifestyle en vrije tijd ; ['game', 'console', 'wijn', 'spel', 'controller'] ; 0
+president ; vrije tijd ; ['vogel', 'natuurgebied', 'soort', 'watervogel', 'natuur'] ; 0
+controller ; milieuvervuiling ; ['dier', 'gevel', 'vlees', 'precisiefermentatie', 'snoeihout'] ; 0
+controller ; samenleving ; ['banaan', 'ingrediënt', 'boter', 'eetstoornis', 'recept'] ; 0
+banaan ; sociale wetenschappen ; ['staal', 'wolf', 'uitwerpsel', 'schaap', 'vee'] ; 0
+gevangenis ; lifestyle ; ['huid', 'haar', 'behandeling', 'zone', 'laser'] ; 0
+gevangenis ; ongeval ; ['zaakvoerder', 'arbeidsongeval', 'gebrek', 'veiligheid', 'restaurant'] ; 0
+deeg ; gezondheid ; ['straling', 'aarde', 'bacterie', 'ontdekking', 'kip'] ; 0
+deeg ; sport ; ['publiek', 'vip', 'toeschouwer', 'amateurclub', 'koers'] ; 0
+deeg ; sportevenement ; ['wedstrijd', 'club', 'seizoen', 'ploeg', 'match'] ; 0
+amateurclub ; economie, business en financiën ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+amateurclub ; internationale betrekkingen ; ['gebruiker', 'mediabedrijf', 'techreuz', 'strijd', 'data'] ; 0
+amateurclub ; internationale betrekkingen ; ['stikstof', 'natuur', 'boer', 'fietser', 'landbouwweg'] ; 0
+amateurclub ; overheidsbeleid ; ['akkoord', 'stap', 'vakbond', 'zorgsector', 'premie'] ; 0
+amateurclub ; wetten en rechten ; ['mensenrechten', 'wet', 'diegene', 'negationist', 'oorlog'] ; 0
+revolutie ; misdaad ; ['hond', 'schaap', 'dier', 'boer', 'vee'] ; 0
+revolutie ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+revolutie ; sport ; ['publiek', 'vip', 'toeschouwer', 'amateurclub', 'koers'] ; 0
+groente ; bedrijfsinformatie ; ['gezondheid', 'werknemer', 'mondmasker', 'werkgever', 'wet'] ; 0
+groente ; lifestyle ; ['huid', 'haar', 'behandeling', 'sessie', 'laser'] ; 0
+groente ; misdaad, recht en justitie ; ['verkeer', 'camera', 'boete', 'auto', 'verkeer'] ; 0
+haar ; economie ; ['kredietkaart', 'bank', 'verzekering', 'rood', 'kredietlijn'] ; 0
+haar ; lifestyle ; ['hamburger', 'ijs', 'shaker', 'bereiding', 'restaurant'] ; 0
+fiets ; human interest ; ['olijfolie', 'eetlepel', 'oven', 'deeg', 'saus'] ; 0
+glas ; kunst en entertainment ; ['museum', 'gescheidenis', 'collaborateur', 'nazi', 'oorlog'] ; 0
+glas ; samenleving ; ['immigrant', 'praktijktest', 'generatie', 'zelfregulering', 'discriminatie'] ; 0
+glas ; verkiezingen ; ['president', 'verkiezing', 'stem', 'staat', 'gouverneur'] ; 0
+hoofd ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+hout ; lifestyle en vrije tijd ; ['game', 'controller', 'achtbaan', 'serie', 'spelcomputer'] ; 0
+huisarts ; misdaad, recht en justitie ; ['gevangenis', 'kok', 'souschef', 'eten', 'quarantaine'] ; 0
+professor ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'glas'] ; 0
+professor ; verkiezingen ; ['president', 'verkiezing', 'partij', 'aanklager', 'staat'] ; 0
+professor ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind'] ; 0
+kandidaat ; samenleving ; ['banaan', 'ingrediënt', 'boter', 'eetstoornis', 'recept'] ; 0
+kerncentrale ; lifestyle ; ['huid', 'haar', 'zone', 'sessie', 'laser'] ; 0
+kerncentrale ; milieuvervuiling ; ['dier', 'gevel', 'vlees', 'precisiefermentatie', 'snoeihout'] ; 0
+kerncentrale ; economie, business en financiën ; ['huid', 'kapper', 'behandeling', 'zone', 'sessie'] ; 0
+kerncentrale ; sport ; ['speler', 'ploeg', 'club', 'seizoen', 'wedstrijd'] ; 0
+kip ; misdaad ; ['geweld', 'agent', 'proces', 'moord', 'dood'] ; 0
+kip ; verkiezingen ; ['president', 'staat', 'kiesman', 'voorstel', 'stem'] ; 0
+huisarts ; kunst en entertainment ; ['muziek', 'band', 'concert', 'muziek', 'release'] ; 0
+groente ; wetten en rechten ; ['drones', 'qr-code', 'systeem', 'technologie', 'politiezone'] ; 0
+koord ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus'] ; 0
+koord ; ongeval ; ['ongeval', 'bestuurder', 'cliënt', 'appartement', 'advocaat'] ; 0
+koord ; politiek ; ['partij', 'president', 'verkiezing', 'toespraak', 'platform'] ; 0
+hond ; economie, business en financiën ; ['auto', 'vervoer', 'halte', 'chauffeur', 'fietser'] ; 0
+groente ; pensioen ; ['studiejaar', 'pensioen', 'premie', 'belasting', 'tarief'] ; 0
+landbouw ; sport ; ['schorsing', 'fraude', 'speeldag', 'doping', 'fiets'] ; 0
+landbouw ; wetten en rechten ; ['mensenrechten', 'regime', 'arrestatie', 'president', 'executie'] ; 0
+psycholoog ; internationale betrekkingen ; ['landbouwer', 'natuur', 'natuurgebied', 'boer', 'staat'] ; 0
+lichaam ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+makelaar ; misdaad ; ['bank', 'bericht', 'dader', 'mail', 'gsm'] ; 0
+markt ; sportevenement ; ['speler', 'voetbal', 'ploeg', 'coach', 'club'] ; 0
+rapport ; economie ; ['wijn', 'vlek', 'vaatwasser', 'vaat', 'fles'] ; 0
+migrant ; rechterlijke macht ; ['oorlog', 'collaborateur', 'geweld', 'nazi', 'cel'] ; 0
+migrant ; human interest ; ['seizoen', 'jurk', 'kleren', 'serie', 'kleding'] ; 0
+mond ; lifestyle en vrije tijd ; ['wandeling', 'route', 'afstand', 'knooppunt', 'moeilijkheidsgraad'] ; 0
+suiker ; verkiezingen ; ['president', 'macht', 'stem', 'staat', 'advocaat'] ; 0
+suiker ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus'] ; 0
+suiker ; pensioen ; ['studiejaar', 'pensioen', 'premie', 'rekening', 'tarief'] ; 0
+oorlog ; milieuvervuiling ; ['dier', 'gevel', 'vlees', 'precisiefermentatie', 'snoeihout'] ; 0
+suiker ; politiek ; ['partij', 'president', 'verkiezing', 'toespraak', 'platform'] ; 0
+oorlog ; sportevenement ; ['wedstrijd', 'club', 'seizoen', 'ploeg', 'match'] ; 0
+aandeel ; economie ; ['wijn', 'fruit', 'groenten', 'vlees', 'aardappel'] ; 0
+aandeel ; lifestyle en vrije tijd ; ['game', 'console', 'winnaar', 'spel', 'controller'] ; 0
+aandeel ; milieu ; ['vogel', 'natuur', 'gebied', 'landbouwer', 'stikstof'] ; 0
+aandeel ; natuurlijke hulpbronnen ; ['zonnepaneel', 'premie', 'stroom', 'teller', 'installatie'] ; 0
+oven ; milieu ; ['ijsberg', 'bangladesh', 'vulkaan', 'bhasan', 'natuur'] ; 0
+oven ; natuurlijke hulpbronnen ; ['zonnepaneel', 'premie', 'stroom', 'teller', 'installatie'] ; 0
+oven ; samenleving ; ['immigrant', 'praktijktest', 'generatie', 'zelfregulering', 'discriminatie'] ; 0
+oven ; sport ; ['startgeld', 'cross', 'top', 'crosser', 'wedstrijd'] ; 0
+papier ; rechterlijke macht ; ['veroordeling', 'collaborateur', 'oorlog', 'nazi', 'cel'] ; 0
+papier ; sport ; ['speler', 'ploeg', 'wedstrijd', 'seizoen', 'trainer'] ; 0
+parket ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'glas'] ; 0
+parket ; natuurwetenschappen ; ['planeet', 'baan', 'zonnestelsel', 'exoplaneet', 'ster'] ; 0
+parket ; sport ; ['ploeg', 'koersfiets', 'fiets', 'wedstrijd', 'rit'] ; 0
+partij ; economische sector ; ['zicht', 'bril', 'leesbril', 'opticien', 'glas'] ; 0
+politicus ; kunst, cultuur en entertainment ; ['kleren', 'modeshow', 'interview', 'ontwerper', 'model'] ; 0
+bed ; lifestyle ; ['glas', 'elektriciteit', 'tocht', 'raam', 'binnenmuurisolatie'] ; 0
+bed ; milieu ; ['fabriek', 'boete', 'geurhinder', 'afval', 'bezinkingsvijver'] ; 0
+politicus ; ongeval ; ['ongeval', 'straf', 'wagen', 'avond', 'vluchtmisdrijf'] ; 0
+pot ; economie, business en financiën ; ['bestuurder', 'wagen', 'fietser', 'reactor', 'vrachtwagen'] ; 0
+pot ; misdaad ; ['bank', 'overval', 'dader', 'geweld', 'dood'] ; 0
+pot ; weer ; ['maximum', 'zee', 'sneeuw', 'wind', 'regen'] ; 0
+leerling ; economische sector ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+leerling ; internationale betrekkingen ; ['stikstof', 'natuur', 'boer', 'fietser', 'landbouwweg'] ; 0
+leerling ; natuurlijke hulpbronnen ; ['zonnepaneel', 'premie', 'stroom', 'teller', 'installatie'] ; 0
+oven ; internationale betrekkingen ; ['akkoord', 'landbouwer', 'stikstof', 'natuur', 'natuurgebied'] ; 0
+procedure ; sport ; ['wedstrijd', 'punt', 'speler', 'seizoen', 'ploeg'] ; 0
+oven ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+bed ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+bed ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'straling', 'afval'] ; 0
+patiënt ; politiek ; ['president', 'staat', 'verkiezing', 'kiesman', 'hertelling'] ; 0
+quarantaine ; sport ; ['ploeg', 'koersfiets', 'fiets', 'koers', 'wedstrijd'] ; 0
+quarantaine ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind'] ; 0
+recept ; geloof ; ['les', 'kaars', 'meningsuiting', 'kerk', 'geloof'] ; 0
+recht ; sport ; ['ploeg', 'koersfiets', 'koerts', 'fiets', 'wedstrijd'] ; 0
+school ; demografie ; ['asielzoeker', 'opvangcentrum', 'opvang', 'staatssecretaris', 'privatisering'] ; 0
+rechtbank ; sport ; ['speler', 'club', 'transfer', 'team', 'data'] ; 0
+school ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus'] ; 0
+school ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+ingrediënt ; internationale betrekkingen ; ['platform', 'mediabedrijf', 'techreuz', 'technologie', 'data'] ; 0
+ingrediënt ; sport ; ['speler', 'wedstrijd', 'scheidsrechter', 'club', 'ploeg'] ; 0
+ingrediënt ; natuurlijke hulpbronnen ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+reis ; economie, business en financiën ; ['huid', 'kapper', 'behandeling', 'zone', 'sessie'] ; 0
+reis ; internationale betrekkingen ; ['president', 'journalist', 'premier', 'artikel', 'aanleiding'] ; 0
+aardgas ; kunst en entertainment ; ['master', 'muziek', 'plaat', 'album', 'auteursrecht'] ; 0
+aardgas ; lifestyle ; ['huid', 'dagcrème', 'licht', 'zon', 'gezicht'] ; 0
+aardgas ; lifestyle en vrije tijd ; ['game', 'console', 'wijn', 'spel', 'controller'] ; 0
+aardgas ; verkiezingen ; ['president', 'staat', 'kiesman', 'voorstel', 'stem'] ; 0
+route ; economie ; ['wijn', 'fruit', 'fles', 'tannines', 'neus'] ; 0
+route ; milieu ; ['reactor', 'ontmanteling', 'splijtstof', 'kerncentrale', 'afval'] ; 0
+route ; weerfenomeen ; ['sneeuw', 'maximum', 'bui', 'centrum', 'wind'] ; 0
+tuin ; bedrijfsinformatie ; ['game', 'controller', 'serie', 'spelcomputer', 'console'] ; 0
+tuin ; economische sector ; ['bus', 'tram', 'halte', 'vervoer', 'autocar'] ; 0
+tuin ; lifestyle en vrije tijd ; ['game', 'controller', 'achtbaan', 'serie', 'spelcomputer'] ; 0
+tuin ; misdaad, recht en justitie ; ['bemiddelaar', 'buurtbemiddelaar', 'code', 'partij', 'buur'] ; 0
+suiker ; natuurwetenschappen ; ['planeet', 'baan', 'zonnestelsel', 'exoplaneet', 'ster'] ; 0
+suiker ; internationale betrekkingen ; ['president', 'journalist', 'premier', 'artikel', 'aanleiding'] ; 0
+suiker ; ongeval ; ['ongeval', 'bestuurder', 'cliënt', 'appartement', 'advocaat'] ; 0
+suiker ; ongeval ; ['zaakvoerder', 'arbeidsongeval', 'gebrek', 'veiligheid', 'ongeval'] ; 0
+deeg ; kunst, cultuur en entertainment ; ['persconferentie', 'dossier', 'logo', 'uitzending', 'reportage'] ; 0
+deeg ; natuurlijke hulpbronnen ; ['zonnepaneel', 'premie', 'stroom', 'teller', 'installatie'] ; 0
+deeg ; vrije tijd ; ['bos', 'centrum', 'appartement', 'begraafplaats', 'wandelaar'] ; 0
+muziek ; economie, business en financiën ; ['fietssnelweg', 'fiets', 'fietser', 'weg', 'rustpunt'] ; 0
+muziek ; rechterlijke macht ; ['rechtbank', 'huurwaarborg', 'eigenaar', 'verdenking', 'onderzoeksrechter'] ; 0
+muziek ; economische sector ; ['zonnepaneel', 'journalist', 'buitenland', 'eigenaar', 'lening'] ; 0
+muziek ; sociale wetenschappen ; ['staal', 'wolf', 'uitwerpsel', 'schaap', 'vee'] ; 0
+diepvries ; economische sector ; ['journalist', 'platform', 'moord', 'intimidatie', 'gebruiker'] ; 0
+wandelaar ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'afwas'] ; 0
+staatssecretaris ; lifestyle en vrije tijd ; ['wandeling', 'route', 'afstand', 'knooppunt', 'moeilijkheidsgraad'] ; 0
+stem ; lifestyle en vrije tijd ; ['wandeling', 'route', 'afstand', 'knooppunt', 'moeilijkheidsgraad'] ; 0
+stikstof ; human interest ; ['olijfolie', 'eetlepel', 'oven', 'deeg', 'saus'] ; 0
+stock ; economische sector ; ['bus', 'tram', 'halte', 'vervoer', 'autocar'] ; 0
+rijbewijs ; lifestyle en vrije tijd ; ['game', 'controller', 'achtbaan', 'serie', 'spelcomputer'] ; 0
+rijbewijs ; economie ; ['vaatwasser', 'vaat', 'reinigingsmiddel', 'servies', 'glas'] ; 0
+rijbewijs ; milieu ; ['fabriek', 'boete', 'geurhinder', 'melding', 'bezinkingsvijver'] ; 0
